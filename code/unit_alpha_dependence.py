@@ -1,4 +1,4 @@
-"""Alpha dependence of the training-platform distortion (Section 5.1). Reads public_window_rates.csv only (no new estimation).
+"""Alpha dependence of the training-platform distortion. Reads public_window_rates.csv only (no new estimation).
 
 Window unit, alpha in {1, 2, 5}%:
   (a) Jamendo-B window FPR at the FMA-dev threshold (tau_FMAov@alpha) / alpha
@@ -15,7 +15,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import config as C  # noqa: E402
 
 TB = C.TB
-DETS = [('B0', 'B0'), ("B0'", "B0'"), ('B0+0', 'B0+0'), ('C0', 'C0'), ('C0+0', 'C0+0'), ('M0', 'M0')]  # B0 and C0 families, M0 (Section 5.1)
+DETS = [('B0', 'B0'), ("B0'", "B0'"), ('B0+0', 'B0+0'), ('C0', 'C0'), ('C0+0', 'C0+0'), ('M0', 'M0')]  # B0 and C0 families, M0
 THIRD = [('ava_sm5', 'AVA-SM'), ('audioset_sm', 'AudioSet-SM'), ('openbmat_human_musicbearing', 'OBM-H')]
 AL = [1, 2, 5]
 

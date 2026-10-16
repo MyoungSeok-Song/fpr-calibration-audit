@@ -30,5 +30,5 @@ run $PY code/heads_window.py --B $B --B_aux $B2
 run $PY code/heads_report.py
 run $PY code/heads_matched_tpr.py --B $B2
 run env B=$B B2=$B2 PYTHON=$PY bash code/extra_sonics.sh
-run $PY code/check_paper_numbers.py --out "$OUT_DIR"
+run $PY code/compare_tables.py --out "$OUT_DIR"
 FIG_SRC="$OUT_DIR" PYTHON=$PY bash code/figs/make_all.sh

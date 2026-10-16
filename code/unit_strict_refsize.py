@@ -1,4 +1,4 @@
-"""Two checks on the multi-reference result (Section 5.1, "A platform-disjoint reference is necessary but not sufficient").
+"""Two checks on the multi-reference result (, "A platform-disjoint reference is necessary but not sufficient").
 
 Same definitions as unit_refswap.py and unit_multiref.py: window unit, alpha = 2%, track-weighted (1/n_f) quantile, the eight human
 cohorts of unit_multiref.py and the four unseen generator families of unit_rank_unseen.

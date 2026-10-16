@@ -1,4 +1,4 @@
-"""Original head versus re-trained (UC) head at the same unseen-AI TPR (Section 5.4, "Raising the original threshold ...").
+"""Original head versus re-trained (UC) head at the same unseen-AI TPR (, "Raising the original threshold ...").
 
 Same definitions as heads_window.py (window unit, track-weighted Jamendo-A tau, file mean of window rates, two-stage cluster
 bootstrap, AI cohorts stratified by generator), plus a matched-TPR threshold.

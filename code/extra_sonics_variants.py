@@ -1,4 +1,4 @@
-"""Pre-specified replication (Section 5.6) with two further official SONICS checkpoints, SpecTTTra-alpha and SpecTTTra-beta (5-s
+"""Pre-specified replication with two further official SONICS checkpoints, SpecTTTra-alpha and SpecTTTra-beta (5-s
 models), next to the paper's SpecTTTra (gamma, 5 s). Builds out/extra_sonics_variants.{md,csv} (frozen copy: results/).
 
 The two detectors were scored after the main analysis, against four expectations recorded in advance:
@@ -27,7 +27,7 @@ import numpy as np, pandas as pd
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import config as C  # noqa: E402
 from unit_provenance import FileSet, load_det, deploy, wq_tau, BATCH  # noqa: E402
-import check_paper_numbers as CP  # noqa: E402  (key, point and interval columns of every result table)
+import compare_tables as CP  # noqa: E402  (key, point and interval columns of every result table)
 
 DETS = [('SpecTTTra', 'SpecTTTra (gamma)'), ('SpecTTTra-alpha', 'SpecTTTra-alpha'), ('SpecTTTra-beta', 'SpecTTTra-beta')]
 GAMMA = 'SpecTTTra'
@@ -289,7 +289,7 @@ def main():
     L += ['', '## How to read', '',
           '- E1 and E3 are judged on the point estimate; the parenthesis says whether the 95% CI also clears the bound. E2 uses the stated band. '
           'E4 is the failure criterion of the paper (G0) on the three named cohorts at α = 2%; α = 1% and 5% are shown as robustness checks.',
-          '- The SpecTTTra column reproduces the paper\'s SpecTTTra numbers (Section 1), so differences between columns come from the checkpoints, not the pipeline.',
+          '- The SpecTTTra column reproduces the paper\'s SpecTTTra numbers, so differences between columns come from the checkpoints, not the pipeline.',
           '- The two context rows split human audio into speech without music and music without speech (same τ_JamA, window unit).',
           '- The new-family mean TPR equals the equal-weight mean of the four per-generator TPRs (checked); its CI comes from the generator-stratified bootstrap '
           'with τ re-estimated (unit_rank_unseen, Jamendo-B row).', '']

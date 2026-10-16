@@ -1,4 +1,4 @@
-"""Reference-swap matrix (Section 5.1, "A platform-disjoint reference is necessary but not sufficient").
+"""Reference-swap matrix (, "A platform-disjoint reference is necessary but not sufficient").
 
 Definitions (window unit = the detector's native window, alpha = 2%, track-weighted (1/n_f) quantile as for tau_JamA):
   for every reference R in {Jamendo-A (baseline), MUSDB18, GTZAN, AVA-MO (evaluation films), AudioSet-MO, FMA-dev (training

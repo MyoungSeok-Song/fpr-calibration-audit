@@ -1,4 +1,4 @@
-"""Multi-reference thresholds, leave-one-cohort-out (Section 5.1, "most conservative of five references").
+"""Multi-reference thresholds, leave-one-cohort-out (, "most conservative of five references").
 
 References R in {Jamendo-A, MUSDB18, GTZAN, AVA-MO (evaluation films), AudioSet-MO}. Window unit, alpha = 2%, track-weighted
 quantile (the definition of tau_JamA). For every evaluation cohort c in {Jamendo-B, AVA-SM, AudioSet-SM, AI-OpenBMAT-H

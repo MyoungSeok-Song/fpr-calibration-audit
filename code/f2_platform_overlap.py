@@ -1,4 +1,4 @@
-"""Intervention on platform overlap between training data and reference (Section 5.1, "An intervention confirms the mechanism").
+"""Intervention on platform overlap between training data and reference (, "An intervention confirms the mechanism").
 
 B0+broad repeats B0+0's extra epoch with about 12,000 added human tracks by other Jamendo artists (disjoint from the A and B
 halves). Control = B0+0, noise floor = B0+0 (seed 2).

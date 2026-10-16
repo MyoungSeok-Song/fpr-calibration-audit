@@ -1,9 +1,9 @@
-"""Decision unit x calibration source (Figs. 1-3, Table 4). Re-aggregates the released window scores.
+"""Decision unit x calibration source (Figs. 1-3,). Re-aggregates the released window scores.
 
 (1) Unit matrix: for every detector, tau at alpha = 2% is calibrated on Jamendo-A with calibration unit
     k_cal in {1, 2, 4, 8, 12} windows (trim20 of k consecutive windows, track-weighted quantile) and applied with deployment
     unit k_dep in {1, 2, 4, 12} (same aggregation, files with at least k_dep windows) -> realised FPR (target 2%) and the
-    TPR of AI cohorts at the same tau (Fig. 2).
+    TPR of AI cohorts at the same tau.
     - k consecutive windows: runs of consecutive j on the file's window grid (EAT: hop 5 s up to 65 s, otherwise 12 windows
       spread evenly; SpecTTTra: 5-s windows, at most 12; ArtifactNet: 7 windows spread evenly; Fakeprint LR: the EAT grid).
       Every start position (n - k + 1 per file) is used and the windows of a file sum to weight 1 (one track, one vote).
@@ -12,9 +12,9 @@
     - ArtifactNet has at most 7 windows, so k = 8 and 12 become k = 7.
 (2) Calibration source x unit: tau from {FMA-dev (training platform), Jamendo-A (platform-disjoint)} x unit {track (trim20
     of all windows of the file), window (k = 1)}, applied at the same unit to Jamendo-B, AVA-SM, AudioSet-SM and
-    AI-OpenBMAT-H (Fig. 1).
-(3) Exposure status per generator and detector family; per-generator window TPR at tau_JamA (Table 4).
-(4) Rank versus calibration against the four generator families that no compared detector has seen (Fig. 3): AUROC of human
+    AI-OpenBMAT-H.
+(3) Exposure status per generator and detector family; per-generator window TPR at tau_JamA.
+(4) Rank versus calibration against the four generator families that no compared detector has seen: AUROC of human
     windows versus AI windows, FPR at tau_JamA, and the reference TPR at tau_JamA and at the cohort's own 2% threshold (oracle).
 Intervals: cluster bootstrap with B replicates (default 10,000, seed 0; Jamendo-A artists resampled in every replicate to
 re-estimate tau, evaluation clusters resampled independently, AI cohorts stratified by generator). Wilson n = clusters.

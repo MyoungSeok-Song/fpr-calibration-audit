@@ -1,4 +1,4 @@
-"""Last-layer heads at the window level (Section 5.4, Table 3, probes in Section 5.1, null inputs).
+"""Last-layer heads at the window level (,, probes in, null inputs).
 
 Input: per-window outputs of the heads (scores/heads/<family>/<dataset>.npz): logit z, positive evidence E+ (ep) and negative
 evidence E- (en) for every head: orig (the detector's own last layer; fine-tuned detectors and Fakeprint LR), free_split (UC,

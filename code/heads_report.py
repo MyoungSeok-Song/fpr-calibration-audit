@@ -1,4 +1,4 @@
-"""Holm adjustment of the confirmatory head contrast (PE - UC, worst in-the-wild FPR) across families (Section 5.4, Table 3).
+"""Holm adjustment of the confirmatory head contrast (PE - UC, worst in-the-wild FPR) across families (,).
 
 Reads out/<tag>_contrast.csv files written by heads_window.py (one or several runs), recomputes the Holm adjustment over the
 confirmatory contrasts of all families present and writes out/heads_contrast_all.csv.

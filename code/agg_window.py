@@ -1,4 +1,4 @@
-"""Window-level aggregation: thresholds, FPR/TPR per cohort, excess ratios over Jamendo-B (Sections 5.1-5.3, Table 4 native rate).
+"""Window-level aggregation: thresholds, FPR/TPR per cohort, excess ratios over Jamendo-B (Sections 5.1-5.3, native rate).
 
 Decision unit = the detector's native window (EAT/MERT detectors 10.24 s, SpecTTTra 5 s, ArtifactNet 4 s with at most 7
 windows, Fakeprint LR on the 10.24-s window grid).

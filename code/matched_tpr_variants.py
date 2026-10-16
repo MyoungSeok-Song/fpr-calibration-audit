@@ -1,4 +1,4 @@
-"""Matched-TPR comparison of a one-epoch variant with its control (Section 5.4, B0+AVA "at matched AI-OpenBMAT-AI TPR").
+"""Matched-TPR comparison of a one-epoch variant with its control (, B0+AVA "at matched AI-OpenBMAT-AI TPR").
 
 The threshold of the control detector (B0+0) is moved until its reference TPR (long windows, file mean) equals the reference TPR
 of the treated detector at its own tau_JamA@2%; at that operating point the human-cohort FPR of the control is compared with

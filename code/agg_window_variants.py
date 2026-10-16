@@ -1,7 +1,7 @@
 """Window-level aggregation with paired comparisons between detector variants (Sections 5.1, 5.3, 5.4, 7).
 
 Used for the one-epoch variants (B0+0, B0+0 (seed 2), B0+SU, B0+AVA, B0+broad), for M0 versus M0+SU, and for the paired
-AI-OpenBMAT AUROC of M0 in Fig. 4. Only the public cohort registry is read.
+AI-OpenBMAT AUROC of M0 in. Only the public cohort registry is read.
 Decision unit = one window (one row of the window scores). Padded windows (inputs shorter than 10.24 s, reflect-padded) are
 reported separately.
 tau_{d,alpha} = track-weighted (1/n_f) empirical (1 - alpha) quantile of the Jamendo-A window scores: the last score whose

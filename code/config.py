@@ -4,7 +4,7 @@ All paths are relative to the repository root:
   lists/cohorts.csv                      cohort registry (one row per cohort: item list, subset query, role, cluster column)
   lists/items/<dataset>.csv              item lists; the row number of an item is its index ID
   scores/windows/<detector>/<dataset>.csv.gz   per-window detector logits (item_id, window index j, ...)
-  scores/heads/<family>/<dataset>.npz          per-window outputs of the last-layer heads (Table 3)
+  scores/heads/<family>/<dataset>.npz          per-window outputs of the last-layer heads
   results/                               frozen result tables behind the paper
   out/                                   default output directory of every script (override with OUT_DIR)
 """
@@ -49,12 +49,12 @@ DETECTORS = {
 PUBLIC = ('SpecTTTra', 'ArtifactNet', 'ArtifactNet (native rate)', 'Fakeprint LR', 'SpecTTTra-alpha', 'SpecTTTra-beta')
 # The ten detectors of the main analyses in the paper (C1 not released).
 MAIN = ['B0', "B0'", 'B0+0', 'C0', 'C0+0', 'M0', 'ArtifactNet', 'SpecTTTra', 'Fakeprint LR']
-# Two further official SONICS checkpoints, scored after the main analysis for the pre-specified replication (Section 5.6). They
+# Two further official SONICS checkpoints, scored after the main analysis for the pre-specified replication. They
 # are never part of a default run: name them with --models / --dets (code/extra_sonics.sh does this).
 REPLICATION = ('SpecTTTra-alpha', 'SpecTTTra-beta')
 
 
-# Head families of Table 3: paper name -> directory under scores/heads (C1 not released).
+# Head families of: paper name -> directory under scores/heads (C1 not released).
 FAMILIES = {
     'B0': 'B0', 'C0': 'C0', 'M0': 'M0',
     'EAT (frozen)': 'EAT_frozen', 'EAT-AS2M (frozen)': 'EAT-AS2M_frozen', 'MERT (frozen)': 'MERT_frozen',

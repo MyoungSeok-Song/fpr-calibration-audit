@@ -1,4 +1,4 @@
-"""Track-level FPR with thresholds matched to the window count, tau_n (Section 5.2, last paragraph).
+"""Track-level FPR with thresholds matched to the window count, tau_n (, last paragraph).
 
 Track score = trim20u of the window logits (mean after dropping the floor(0.2 n) largest; for n = 1..4 nothing is dropped).
 For a target file with n_f windows (at most 12), tau_n(alpha) = the k-th largest trim20u score of the first n windows of every

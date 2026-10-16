@@ -1,4 +1,4 @@
-"""Paired window AUROC on AI-OpenBMAT by music class (Fig. 4; B0 family, C0 family and SpecTTTra).
+"""Paired window AUROC on AI-OpenBMAT by music class (; B0 family, C0 family and SpecTTTra).
 
 Each window is assigned the class that covers at least 80% of it (otherwise 'mixed'); classes come from the dataset's per-file
 segment annotations (lists/openbmat_segments.csv, human arm; the AI arm has the same structure).
