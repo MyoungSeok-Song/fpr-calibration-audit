@@ -38,7 +38,6 @@ DETECTORS = {
     'B0+SU': ('B0plusSU', 'EAT 10.24 s'),
     'B0+AVA': ('B0plusAVA', 'EAT 10.24 s'),
     'B0+broad': ('B0plusbroad', 'EAT 10.24 s'),
-    'M0+SU': ('M0plusSU', 'MERT-330M 10.24 s'),
     'SpecTTTra': ('SpecTTTra', '5 s'),
     'ArtifactNet': ('ArtifactNet', '4 s x 7'),
     'ArtifactNet (native rate)': ('ArtifactNet_native', '4 s x 7'),

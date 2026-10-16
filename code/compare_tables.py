@@ -40,7 +40,7 @@ TABLES = [
     ('f2_platform_overlap', ['det', 'cohort', 'thr'], ['fpr', 'tau'], ['ci_lo', 'ci_hi']),
     ('f2_platform_overlap_delta', ['cohort', 'thr', 'comp'], ['delta'], ['ci_lo', 'ci_hi']),
     ('f2_platform_overlap_tpr', ['det', 'thr'], ['tpr', 'tau'], ['ci_lo', 'ci_hi']),
-] + V('variants_seednoise', ('rates', 'paired', 'auroc')) + V('variants_m0', ('auroc',)) + V('variants_m0su_pair', ('rates',)) + [
+] + V('variants_seednoise', ('rates', 'paired', 'auroc')) + V('variants_m0', ('auroc',)) + [
     ('track_tau_all_rates', ['model', 'cohort', 'alpha'], ['rate'], ['lo', 'hi']),
     ('matched_tpr_variants', ['treat', 'matched_on', 'cohort', 'subset'], ['tau_ref_star', 'fpr_treat', 'fpr_ref_star', 'delta'], ['d_lo', 'd_hi']),
     ('openbmat_window_auroc', ['model', 'cls'], ['auroc', 'n_chunks_human'], ['ci_lo', 'ci_hi']),
@@ -50,6 +50,18 @@ TABLES = [
     ('heads_null', ['bb', 'head', 'cohort'], ['med', 'fpr', 'margin_sd'], []),
     ('heads_contrast_all', ['bb', 'base', 'method'], ['worst_base', 'worst_method', 'd_worst', 'oot_base', 'oot_method', 'd_oot'], ['d_worst_lo', 'd_worst_hi', 'p_worst']),
     ('heads_matched_tpr', ['bb'], ['T_uc', 'tpr_uc', 'uc_worst', 'T_orig_matched', 'tpr_orig_matched', 'orig_worst', 'd_worst'], ['d_worst_lo', 'd_worst_hi']),
+    # post hoc analyses: exposure crossover, TPR-matched baseline of Table 3, threshold policies, interpretation change
+    ('f2x_exposure_crossover', ['det', 'cohort', 'thr'], ['fpr', 'tau', 'n_files', 'clusters', 'delta'], ['ci_lo', 'ci_hi', 'd_lo', 'd_hi']),
+    ('f2x_exposure_crossover_summary', ['det', 'thr', 'variant', 'cohorts'], ['n_cohorts', 'mean_delta', 'max_delta'], ['mean_lo', 'mean_hi', 'max_lo', 'max_hi']),
+    ('f2x_exposure_crossover_cross2x2', ['det', 'contrast'], ['est'], ['lo', 'hi']),
+    ('f2x_exposure_crossover_auroc', ['det', 'set', 'cohort'], ['auroc', 'delta'], ['lo', 'hi', 'd_lo', 'd_hi']),
+    ('table3_matched_baseline', ['bb', 'refit'], ['orig_tau', 'orig_tpr', 'orig_worst', 'matched_tau', 'matched_tpr', 'matched_worst', 'refit_tau', 'refit_tpr',
+                                                  'refit_worst', 'd_refit_minus_matched', 'd_refit_minus_orig'],
+     ['matched_worst_lo', 'matched_worst_hi', 'refit_worst_lo', 'refit_worst_hi', 'd_rm_lo', 'd_rm_hi', 'd_ro_lo', 'd_ro_hi']),
+    ('policy_compare', ['det', 'policy'], ['tau_deployed', 'fpr_JamB', 'fpr_AVASM', 'fpr_ASSM', 'fpr_OBMH', 'worst_fpr', 'below6_point', 'tpr', 'tpr_cost_vs_P1'],
+     ['worst_sim_lo', 'worst_sim_hi', 'worst_coh_lo', 'worst_coh_hi', 'tpr_lo', 'tpr_hi', 'cost_lo', 'cost_hi']),
+    ('interpretation_change', ['det', 'condition'], ['tau', 'fpr_JamB', 'fpr_AVASM', 'fpr_ASSM', 'fpr_OBMH', 'n_gt6', 'any_speech_gt6', 'worst_speech_fpr', 'tpr'],
+     ['lo_JamB', 'hi_JamB', 'lo_AVASM', 'hi_AVASM', 'lo_ASSM', 'hi_ASSM', 'lo_OBMH', 'hi_OBMH', 'tpr_lo', 'tpr_hi']),
     # replication with SpecTTTra-alpha and SpecTTTra-beta (code/extra_sonics.sh); 'value' holds the point estimate of a row
     ('extra_sonics_variants', ['section', 'quantity', 'detector'], ['value'], ['ci_lo', 'ci_hi']),
 ]

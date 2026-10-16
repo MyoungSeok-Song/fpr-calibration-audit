@@ -57,7 +57,7 @@ ax.set_ylim(-3, 103)
 ax.set_yticks([0, 20, 40, 60, 80, 100])
 ax.grid(axis="y", which="major", zorder=0)
 ax.set_xlabel("FPR (%) at deployed Jamendo-A τ  (→ calibration error)", labelpad=2)
-ax.set_ylabel("Oracle TPR (%), 4 unseen families", labelpad=2)
+ax.set_ylabel("Oracle TPR (%), 4 new families", labelpad=2)
 
 # ---- regime hulls (convex hull in log-x space, padded by a wide round-joined outline of the fill colour)
 def hull(points, fc, ec):
@@ -95,7 +95,7 @@ from common import COHORT, ORDER
 b0a = d[(d.paper == "B0") & (d.cohort == "audioset_sm")].iloc[0]
 ax.annotate("", xy=(b0a.x, b0a.tpr_oracle + 1.5), xytext=(b0a.x, b0a.tpr_tauJamA - 0.3),
             arrowprops=dict(arrowstyle="-|>", color=ORANGE, lw=0.8, mutation_scale=7, shrinkA=0, shrinkB=0), zorder=4)
-ax.annotate(f"B0 · AudioSet-SM\n−{b0a.tpr_tauJamA - b0a.tpr_oracle:.1f} pt", xy=(b0a.x * 0.93, b0a.tpr_oracle + 1.0), xytext=(0.22, 64),
+ax.annotate(f"B0 · AudioSet-SM\n{b0a.tpr_tauJamA - b0a.tpr_oracle:.1f} pp lower", xy=(b0a.x * 0.93, b0a.tpr_oracle + 1.0), xytext=(0.22, 64),
             fontsize=7, color=ORANGE, ha="center", va="center", linespacing=1.0,
             arrowprops=dict(arrowstyle="-", color=ORANGE, lw=0.5, shrinkA=0, shrinkB=1, alpha=0.8), zorder=4)
 c1 = d[(d.paper == "C1") & (d.cohort == "ava_sm5")]
@@ -105,11 +105,11 @@ if len(c1):   # C1 is not released with this repository; the label is drawn only
                 ha="right", va="center", arrowprops=dict(arrowstyle="-", color=TEAL, lw=0.5, shrinkA=0, shrinkB=1, alpha=0.8), zorder=4)
 # regime labels (three, in empty areas)
 calib = d[d.regime == "calib"]; disc = d[d.regime == "disc"]; cov = d[d.regime == "coverage"]
-ax.text(0.024, 101.5, f"Calibration-dominated · AUROC {calib.auroc.min():.2f}–{calib.auroc.max():.2f}", fontsize=7.5, color=ORANGE,
+ax.text(0.024, 101.5, f"Calibration-dominated · AUROC {calib.auroc.min():.3f}–{calib.auroc.max():.3f}", fontsize=7.5, color=ORANGE,
         fontweight="bold", va="bottom", ha="left")
-ax.text(XHI * 0.95, 52, f"Calibration +\ndiscrimination\noracle TPR {disc.tpr_oracle.min():.0f}–{disc.tpr_oracle.max():.0f}%",
+ax.text(XHI * 0.95, 52, f"Calibration +\ndiscrimination\noracle TPR {disc.tpr_oracle.min():.1f}–{disc.tpr_oracle.max():.1f}%",
         fontsize=7.5, color=TEAL, fontweight="bold", va="top", ha="right", linespacing=1.0)
-ax.text(0.024, 36.5, f"Coverage failure\nTPR ≤ {cov.tpr_oracle.max():.0f}%", fontsize=7.5, color=GREY, fontweight="bold", va="bottom", ha="left", linespacing=1.0)
+ax.text(0.024, 36.5, f"Coverage failure\nTPR ≤ {cov.tpr_oracle.max():.1f}%", fontsize=7.5, color=GREY, fontweight="bold", va="bottom", ha="left", linespacing=1.0)
 ax.text(2.0 * 1.08, 60, "α = 2%", fontsize=7, color=GREY, va="center", ha="left")
 
 # ---- legend below the axes (shape = family, fill = cohort type)

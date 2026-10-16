@@ -1,0 +1,14 @@
+det,contrast,est,lo,hi,cohorts
+B0+broad,mean_delta@JamA,6.704687943974708,3.2788309187664977,12.238534537344385,audioset_sm+openbmat_human_musicbearing+musdb18+gtzan+audioset_mo+librispeech_long
+B0+broad,mean_delta@AVA-MO,1.009443540558144,-0.9075065391633719,4.793578391711527,audioset_sm+openbmat_human_musicbearing+musdb18+gtzan+audioset_mo+librispeech_long
+B0+AVA,mean_delta@JamA,-1.1761461193647624,-1.7018234922956543,-0.5277209558406611,audioset_sm+openbmat_human_musicbearing+musdb18+gtzan+audioset_mo+librispeech_long
+B0+AVA,mean_delta@AVA-MO,2.6864967490972984,1.1708289248041688,7.02377854670827,audioset_sm+openbmat_human_musicbearing+musdb18+gtzan+audioset_mo+librispeech_long
+B0+SU,mean_delta@JamA,0.45738955607800186,-0.7150644747831324,2.0148010823367977,audioset_sm+openbmat_human_musicbearing+musdb18+gtzan+audioset_mo+librispeech_long
+B0+SU,mean_delta@AVA-MO,1.5150167880419074,0.34399095126826207,2.4789115297208935,audioset_sm+openbmat_human_musicbearing+musdb18+gtzan+audioset_mo+librispeech_long
+B0+0 (seed 2),mean_delta@JamA,-0.3926366957151361,-0.8117943305463751,0.1756577422343484,audioset_sm+openbmat_human_musicbearing+musdb18+gtzan+audioset_mo+librispeech_long
+B0+0 (seed 2),mean_delta@AVA-MO,-0.23523973617880226,-0.9768780157419386,0.9178839119303481,audioset_sm+openbmat_human_musicbearing+musdb18+gtzan+audioset_mo+librispeech_long
+B0+broad,JamA_minus_AVA-MO,5.695244403416564,1.004940813554084,11.29725639246205,audioset_sm+openbmat_human_musicbearing+musdb18+gtzan+audioset_mo+librispeech_long
+B0+AVA,JamA_minus_AVA-MO,-3.8626428684620606,-8.22622137266058,-2.1907036308530023,audioset_sm+openbmat_human_musicbearing+musdb18+gtzan+audioset_mo+librispeech_long
+B0+SU,JamA_minus_AVA-MO,-1.0576272319639055,-2.5207983454205167,0.863182477795829,audioset_sm+openbmat_human_musicbearing+musdb18+gtzan+audioset_mo+librispeech_long
+B0+0 (seed 2),JamA_minus_AVA-MO,-0.15739695953633384,-1.2188297855126402,0.7374811459145852,audioset_sm+openbmat_human_musicbearing+musdb18+gtzan+audioset_mo+librispeech_long
+B0+broad vs B0+AVA,interaction [(B0+broad: JamA - AVA-MO) - (B0+AVA: JamA - AVA-MO)],9.557887271878624,5.513449065106779,15.827070379746933,audioset_sm+openbmat_human_musicbearing+musdb18+gtzan+audioset_mo+librispeech_long
