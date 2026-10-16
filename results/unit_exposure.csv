@@ -1,0 +1,22 @@
+cohort,generator,family,B0fam,C0fam,SONICS,note
+sonics_fake,chirp-v2-xxl-alpha,Suno,new_version,new_version,same,only chirp-v3.5 of SONICS was used for fine-tuning
+sonics_fake,chirp-v3,Suno,new_version,new_version,same,
+sonics_fake,chirp-v3.5,Suno,same,same,same,
+sonics_fake,udio-120s,Udio,same,same,same,
+sonics_fake,udio-30s,Udio,new_version,new_version,same,Udio 30-s model (udio-32)
+newgen,lyria3,Lyria,new_family,new_family,new_family,
+newgen,suno-musicality,Suno,new_version,new_version,new_version,
+newgen,suno-v5.5,Suno,new_version,new_version,new_version,same version as MUSIC8K suno_v5.5
+music8k,acestep1.5,ACE-Step,new_version,new_version,new_family,Echoes acestep (version unverified) in training; B0 partly exposed through the ACE-Step vocal overlay
+music8k,heartmula,HeartMuLa,new_family,new_family,new_family,
+music8k,minimax_2.6,MiniMax,new_family,new_family,new_family,
+music8k,mureka_v9,Mureka,new_family,new_family,new_family,
+music8k,suno_v5.5,Suno,new_version,new_version,new_version,same version as Recent suno-v5.5
+music8k,sunov5_new,Suno,new_version,new_version,new_version,Suno v5
+aime_sa,suno_v3_aime,Suno,new_version,new_version,same,Suno v3 of AIME
+aime_sa,riffusion_aime,Riffusion,new_family?,new_family?,new_family,another model of the company behind the Echoes producer generator; effectively a new family (unverified)
+aime_sa,stableaudio_v1,Stable Audio,new_version?,new_version?,new_family,Echoes stableaudio and FakeMusicCaps Stable Audio Open in training (version unverified)
+aime_sa,stableaudio_v2,Stable Audio,new_version?,new_version?,new_family,as above
+openbmat_ai_musicbearing,suno_v3.5_openbmat,Suno,new_condition,new_condition,new_condition,"Suno v3.5 (trained version) under broadcast-style speech; 1,231 music-bearing pairs"
+suno_ext_dev,suno_ext,Suno,new_version?,new_version?,new_version?,"platform compilation, mixed versions (unverified)"
+udio_hf_dev,udio_hf,Udio,new_version?,new_version?,new_version?,as above

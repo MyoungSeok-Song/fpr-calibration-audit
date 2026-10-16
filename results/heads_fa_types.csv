@@ -1,0 +1,505 @@
+bb,head,cohort,n_windows,n_fp_windows,el_5,ep_5,mx_5,el_1,ep_1,mx_1,el_10,ep_10,mx_10
+B0,orig,openbmat_human_musicbearing,13541,451,0,451,0,22,429,0,0,451,0
+B0,orig,musdb18,1724,16,0,16,0,0,16,0,0,16,0
+B0,orig,gtzan,5024,18,0,18,0,0,18,0,0,18,0
+B0,orig,ava_sm5,1754,84,0,84,0,8,76,0,0,84,0
+B0,orig,jamendo_B,12189,363,0,363,0,2,361,0,0,363,0
+B0,orig,ava_sm_long,1251,63,0,63,0,8,55,0,0,63,0
+B0,orig,audioset_sm,342,22,0,22,0,0,22,0,0,22,0
+B0,orig,ava_mo,1913,26,0,26,0,1,25,0,0,26,0
+B0,orig,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+B0,orig,ava_amb_long,1091,1,0,1,0,0,1,0,0,1,0
+B0,orig,librispeech_tc,3540,81,0,81,0,1,80,0,0,81,0
+B0,orig,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+B0,orig,null_white30,500,1,0,1,0,0,1,0,0,1,0
+B0,orig,null_dither30,500,2,0,2,0,0,2,0,0,2,0
+B0,free_split,openbmat_human_musicbearing,13541,99,65,34,0,66,5,28,23,76,0
+B0,free_split,musdb18,1724,10,1,9,0,1,6,3,0,10,0
+B0,free_split,gtzan,5024,5,3,2,0,5,0,0,0,5,0
+B0,free_split,ava_sm5,1754,19,8,11,0,8,6,5,3,16,0
+B0,free_split,jamendo_B,12189,319,27,292,0,58,161,100,6,313,0
+B0,free_split,ava_sm_long,1251,15,6,9,0,5,5,5,1,14,0
+B0,free_split,audioset_sm,342,4,2,2,0,2,0,2,2,2,0
+B0,free_split,ava_mo,1913,19,5,14,0,8,3,8,2,17,0
+B0,free_split,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+B0,free_split,ava_amb_long,1091,3,0,3,0,0,0,3,0,3,0
+B0,free_split,librispeech_tc,3540,23,7,16,0,7,7,9,3,20,0
+B0,free_split,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+B0,free_split,null_white30,500,0,0,0,0,0,0,0,0,0,0
+B0,free_split,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+B0,pos_split,openbmat_human_musicbearing,13541,29,0,29,0,0,29,0,0,29,0
+B0,pos_split,musdb18,1724,15,0,15,0,0,15,0,0,15,0
+B0,pos_split,gtzan,5024,3,0,3,0,0,3,0,0,3,0
+B0,pos_split,ava_sm5,1754,28,0,28,0,0,28,0,0,28,0
+B0,pos_split,jamendo_B,12189,327,0,327,0,0,327,0,0,327,0
+B0,pos_split,ava_sm_long,1251,26,0,26,0,0,26,0,0,26,0
+B0,pos_split,audioset_sm,342,3,0,3,0,0,3,0,0,3,0
+B0,pos_split,ava_mo,1913,13,0,13,0,0,13,0,0,13,0
+B0,pos_split,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+B0,pos_split,ava_amb_long,1091,1,0,1,0,0,1,0,0,1,0
+B0,pos_split,librispeech_tc,3540,21,0,21,0,0,21,0,0,21,0
+B0,pos_split,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+B0,pos_split,null_white30,500,0,0,0,0,0,0,0,0,0,0
+B0,pos_split,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+B0,free_mlp,openbmat_human_musicbearing,13541,79,10,67,2,2,32,45,1,78,0
+B0,free_mlp,musdb18,1724,17,4,13,0,7,6,4,2,15,0
+B0,free_mlp,gtzan,5024,4,0,4,0,0,2,2,0,4,0
+B0,free_mlp,ava_sm5,1754,26,9,16,1,2,9,15,2,24,0
+B0,free_mlp,jamendo_B,12189,319,102,214,3,97,135,87,36,283,0
+B0,free_mlp,ava_sm_long,1251,18,7,10,1,1,5,12,2,16,0
+B0,free_mlp,audioset_sm,342,7,3,4,0,1,2,4,2,5,0
+B0,free_mlp,ava_mo,1913,21,12,9,0,11,3,7,4,17,0
+B0,free_mlp,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+B0,free_mlp,ava_amb_long,1091,8,5,3,0,4,1,3,2,6,0
+B0,free_mlp,librispeech_tc,3540,30,6,23,1,6,10,14,3,27,0
+B0,free_mlp,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+B0,free_mlp,null_white30,500,0,0,0,0,0,0,0,0,0,0
+B0,free_mlp,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+B0,pos_mlp,openbmat_human_musicbearing,13541,93,0,93,0,0,93,0,0,93,0
+B0,pos_mlp,musdb18,1724,16,0,16,0,0,16,0,0,16,0
+B0,pos_mlp,gtzan,5024,4,0,4,0,0,4,0,0,4,0
+B0,pos_mlp,ava_sm5,1754,34,0,34,0,0,34,0,0,34,0
+B0,pos_mlp,jamendo_B,12189,326,0,326,0,0,326,0,0,326,0
+B0,pos_mlp,ava_sm_long,1251,28,0,28,0,0,28,0,0,28,0
+B0,pos_mlp,audioset_sm,342,5,0,5,0,0,5,0,0,5,0
+B0,pos_mlp,ava_mo,1913,13,0,13,0,0,13,0,0,13,0
+B0,pos_mlp,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+B0,pos_mlp,ava_amb_long,1091,4,0,4,0,0,4,0,0,4,0
+B0,pos_mlp,librispeech_tc,3540,23,0,23,0,0,23,0,0,23,0
+B0,pos_mlp,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+B0,pos_mlp,null_white30,500,0,0,0,0,0,0,0,0,0,0
+B0,pos_mlp,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+C0,orig,openbmat_human_musicbearing,13541,142,0,142,0,0,142,0,0,142,0
+C0,orig,musdb18,1724,11,0,11,0,0,11,0,0,11,0
+C0,orig,gtzan,5024,34,0,34,0,0,34,0,0,34,0
+C0,orig,ava_sm5,1754,14,0,14,0,0,14,0,0,14,0
+C0,orig,jamendo_B,12189,383,0,383,0,0,383,0,0,383,0
+C0,orig,ava_sm_long,1251,3,0,3,0,0,3,0,0,3,0
+C0,orig,audioset_sm,342,1,0,1,0,0,1,0,0,1,0
+C0,orig,ava_mo,1913,7,0,7,0,0,7,0,0,7,0
+C0,orig,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+C0,orig,ava_amb_long,1091,0,0,0,0,0,0,0,0,0,0
+C0,orig,librispeech_tc,3540,54,0,54,0,0,54,0,0,54,0
+C0,orig,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+C0,orig,null_white30,500,0,0,0,0,0,0,0,0,0,0
+C0,orig,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+C0,free_split,openbmat_human_musicbearing,13541,72,59,13,0,62,1,9,49,23,0
+C0,free_split,musdb18,1724,25,13,12,0,11,4,10,8,17,0
+C0,free_split,gtzan,5024,27,20,7,0,22,1,4,13,14,0
+C0,free_split,ava_sm5,1754,7,7,0,0,7,0,0,4,3,0
+C0,free_split,jamendo_B,12189,389,263,126,0,261,21,107,188,201,0
+C0,free_split,ava_sm_long,1251,6,6,0,0,6,0,0,3,3,0
+C0,free_split,audioset_sm,342,1,1,0,0,0,0,1,0,1,0
+C0,free_split,ava_mo,1913,10,6,4,0,6,0,4,4,6,0
+C0,free_split,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+C0,free_split,ava_amb_long,1091,0,0,0,0,0,0,0,0,0,0
+C0,free_split,librispeech_tc,3540,176,24,152,0,15,87,74,16,160,0
+C0,free_split,null_pink30,500,500,0,500,0,0,500,0,0,500,0
+C0,free_split,null_white30,500,500,0,500,0,0,500,0,0,500,0
+C0,free_split,null_dither30,500,500,0,500,0,0,500,0,0,500,0
+C0,pos_split,openbmat_human_musicbearing,13541,59,0,59,0,0,59,0,0,59,0
+C0,pos_split,musdb18,1724,30,0,30,0,0,30,0,0,30,0
+C0,pos_split,gtzan,5024,25,0,25,0,0,25,0,0,25,0
+C0,pos_split,ava_sm5,1754,6,0,6,0,0,6,0,0,6,0
+C0,pos_split,jamendo_B,12189,406,0,406,0,0,406,0,0,406,0
+C0,pos_split,ava_sm_long,1251,4,0,4,0,0,4,0,0,4,0
+C0,pos_split,audioset_sm,342,0,0,0,0,0,0,0,0,0,0
+C0,pos_split,ava_mo,1913,8,0,8,0,0,8,0,0,8,0
+C0,pos_split,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+C0,pos_split,ava_amb_long,1091,0,0,0,0,0,0,0,0,0,0
+C0,pos_split,librispeech_tc,3540,221,0,221,0,0,221,0,0,221,0
+C0,pos_split,null_pink30,500,500,0,500,0,0,500,0,0,500,0
+C0,pos_split,null_white30,500,500,0,500,0,0,500,0,0,500,0
+C0,pos_split,null_dither30,500,500,0,500,0,0,500,0,0,500,0
+C0,free_mlp,openbmat_human_musicbearing,13541,70,46,24,0,25,14,31,43,27,0
+C0,free_mlp,musdb18,1724,32,22,8,2,13,3,16,21,11,0
+C0,free_mlp,gtzan,5024,24,17,6,1,5,2,17,16,8,0
+C0,free_mlp,ava_sm5,1754,17,14,0,3,9,0,8,16,1,0
+C0,free_mlp,jamendo_B,12189,370,314,44,12,224,22,124,308,61,1
+C0,free_mlp,ava_sm_long,1251,9,9,0,0,7,0,2,9,0,0
+C0,free_mlp,audioset_sm,342,1,1,0,0,1,0,0,1,0,0
+C0,free_mlp,ava_mo,1913,17,12,3,2,9,1,7,13,4,0
+C0,free_mlp,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+C0,free_mlp,ava_amb_long,1091,0,0,0,0,0,0,0,0,0,0
+C0,free_mlp,librispeech_tc,3540,431,104,162,165,19,50,362,166,256,9
+C0,free_mlp,null_pink30,500,500,466,34,0,500,0,0,107,393,0
+C0,free_mlp,null_white30,500,500,498,2,0,500,0,0,145,355,0
+C0,free_mlp,null_dither30,500,500,492,8,0,500,0,0,88,412,0
+C0,pos_mlp,openbmat_human_musicbearing,13541,88,0,88,0,0,88,0,0,88,0
+C0,pos_mlp,musdb18,1724,27,0,27,0,0,27,0,0,27,0
+C0,pos_mlp,gtzan,5024,33,0,33,0,0,33,0,0,33,0
+C0,pos_mlp,ava_sm5,1754,7,0,7,0,0,7,0,0,7,0
+C0,pos_mlp,jamendo_B,12189,378,0,378,0,0,378,0,0,378,0
+C0,pos_mlp,ava_sm_long,1251,3,0,3,0,0,3,0,0,3,0
+C0,pos_mlp,audioset_sm,342,0,0,0,0,0,0,0,0,0,0
+C0,pos_mlp,ava_mo,1913,13,0,13,0,0,13,0,0,13,0
+C0,pos_mlp,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+C0,pos_mlp,ava_amb_long,1091,0,0,0,0,0,0,0,0,0,0
+C0,pos_mlp,librispeech_tc,3540,57,0,57,0,0,57,0,0,57,0
+C0,pos_mlp,null_pink30,500,500,0,500,0,0,500,0,0,500,0
+C0,pos_mlp,null_white30,500,500,0,500,0,0,500,0,0,500,0
+C0,pos_mlp,null_dither30,500,500,0,500,0,0,500,0,0,500,0
+EAT (frozen),free_split,openbmat_human_musicbearing,13541,0,0,0,0,0,0,0,0,0,0
+EAT (frozen),free_split,musdb18,1724,28,1,3,24,0,0,28,3,6,19
+EAT (frozen),free_split,gtzan,5024,0,0,0,0,0,0,0,0,0,0
+EAT (frozen),free_split,ava_sm5,1754,7,0,1,6,0,0,7,0,2,5
+EAT (frozen),free_split,jamendo_B,12189,368,28,46,294,6,6,356,52,86,230
+EAT (frozen),free_split,ava_sm_long,1251,6,0,0,6,0,0,6,0,1,5
+EAT (frozen),free_split,audioset_sm,342,6,0,0,6,0,0,6,0,0,6
+EAT (frozen),free_split,ava_mo,1913,24,8,0,16,2,0,22,9,0,15
+EAT (frozen),free_split,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+EAT (frozen),free_split,ava_amb_long,1091,1,0,0,1,0,0,1,0,0,1
+EAT (frozen),free_split,librispeech_tc,3540,48,0,48,0,0,28,20,0,48,0
+EAT (frozen),free_split,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+EAT (frozen),free_split,null_white30,500,0,0,0,0,0,0,0,0,0,0
+EAT (frozen),free_split,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+EAT (frozen),pos_split,openbmat_human_musicbearing,13541,1,0,1,0,0,1,0,0,1,0
+EAT (frozen),pos_split,musdb18,1724,105,0,105,0,0,105,0,0,105,0
+EAT (frozen),pos_split,gtzan,5024,0,0,0,0,0,0,0,0,0,0
+EAT (frozen),pos_split,ava_sm5,1754,248,0,248,0,0,248,0,0,248,0
+EAT (frozen),pos_split,jamendo_B,12189,383,0,383,0,0,383,0,0,383,0
+EAT (frozen),pos_split,ava_sm_long,1251,178,0,178,0,0,178,0,0,178,0
+EAT (frozen),pos_split,audioset_sm,342,57,0,57,0,0,57,0,0,57,0
+EAT (frozen),pos_split,ava_mo,1913,55,0,55,0,0,55,0,0,55,0
+EAT (frozen),pos_split,ava_cs_long,381,73,0,73,0,0,73,0,0,73,0
+EAT (frozen),pos_split,ava_amb_long,1091,197,0,197,0,0,197,0,0,197,0
+EAT (frozen),pos_split,librispeech_tc,3540,1282,0,1282,0,0,1282,0,0,1282,0
+EAT (frozen),pos_split,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+EAT (frozen),pos_split,null_white30,500,0,0,0,0,0,0,0,0,0,0
+EAT (frozen),pos_split,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+EAT (frozen),free_mlp,openbmat_human_musicbearing,13541,0,0,0,0,0,0,0,0,0,0
+EAT (frozen),free_mlp,musdb18,1724,29,0,29,0,0,23,6,0,29,0
+EAT (frozen),free_mlp,gtzan,5024,2,0,2,0,0,2,0,0,2,0
+EAT (frozen),free_mlp,ava_sm5,1754,17,0,17,0,0,16,1,0,17,0
+EAT (frozen),free_mlp,jamendo_B,12189,352,16,336,0,34,219,99,1,351,0
+EAT (frozen),free_mlp,ava_sm_long,1251,14,0,14,0,0,13,1,0,14,0
+EAT (frozen),free_mlp,audioset_sm,342,6,0,6,0,0,5,1,0,6,0
+EAT (frozen),free_mlp,ava_mo,1913,24,4,20,0,7,12,5,1,23,0
+EAT (frozen),free_mlp,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+EAT (frozen),free_mlp,ava_amb_long,1091,7,0,7,0,0,7,0,0,7,0
+EAT (frozen),free_mlp,librispeech_tc,3540,201,0,201,0,0,201,0,0,201,0
+EAT (frozen),free_mlp,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+EAT (frozen),free_mlp,null_white30,500,0,0,0,0,0,0,0,0,0,0
+EAT (frozen),free_mlp,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+EAT (frozen),pos_mlp,openbmat_human_musicbearing,13541,3,0,3,0,0,3,0,0,3,0
+EAT (frozen),pos_mlp,musdb18,1724,32,0,32,0,0,32,0,0,32,0
+EAT (frozen),pos_mlp,gtzan,5024,3,0,3,0,0,3,0,0,3,0
+EAT (frozen),pos_mlp,ava_sm5,1754,21,0,21,0,0,21,0,0,21,0
+EAT (frozen),pos_mlp,jamendo_B,12189,325,0,325,0,0,325,0,0,325,0
+EAT (frozen),pos_mlp,ava_sm_long,1251,14,0,14,0,0,14,0,0,14,0
+EAT (frozen),pos_mlp,audioset_sm,342,3,0,3,0,0,3,0,0,3,0
+EAT (frozen),pos_mlp,ava_mo,1913,12,0,12,0,0,12,0,0,12,0
+EAT (frozen),pos_mlp,ava_cs_long,381,2,0,2,0,0,2,0,0,2,0
+EAT (frozen),pos_mlp,ava_amb_long,1091,134,0,134,0,0,134,0,0,134,0
+EAT (frozen),pos_mlp,librispeech_tc,3540,848,0,848,0,0,848,0,0,848,0
+EAT (frozen),pos_mlp,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+EAT (frozen),pos_mlp,null_white30,500,0,0,0,0,0,0,0,0,0,0
+EAT (frozen),pos_mlp,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+EAT-AS2M (frozen),free_split,openbmat_human_musicbearing,13541,9,0,0,9,0,0,9,3,0,6
+EAT-AS2M (frozen),free_split,musdb18,1724,8,2,1,5,0,0,8,2,3,3
+EAT-AS2M (frozen),free_split,gtzan,5024,18,2,0,16,0,0,18,3,2,13
+EAT-AS2M (frozen),free_split,ava_sm5,1754,5,0,0,5,0,0,5,2,0,3
+EAT-AS2M (frozen),free_split,jamendo_B,12189,299,55,30,214,15,5,279,85,52,162
+EAT-AS2M (frozen),free_split,ava_sm_long,1251,5,0,0,5,0,0,5,2,0,3
+EAT-AS2M (frozen),free_split,audioset_sm,342,0,0,0,0,0,0,0,0,0,0
+EAT-AS2M (frozen),free_split,ava_mo,1913,17,1,6,10,0,2,15,2,10,5
+EAT-AS2M (frozen),free_split,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+EAT-AS2M (frozen),free_split,ava_amb_long,1091,9,0,6,3,0,1,8,0,6,3
+EAT-AS2M (frozen),free_split,librispeech_tc,3540,0,0,0,0,0,0,0,0,0,0
+EAT-AS2M (frozen),free_split,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+EAT-AS2M (frozen),free_split,null_white30,500,0,0,0,0,0,0,0,0,0,0
+EAT-AS2M (frozen),free_split,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+EAT-AS2M (frozen),pos_split,openbmat_human_musicbearing,13541,272,0,272,0,0,272,0,0,272,0
+EAT-AS2M (frozen),pos_split,musdb18,1724,49,0,49,0,0,49,0,0,49,0
+EAT-AS2M (frozen),pos_split,gtzan,5024,27,0,27,0,0,27,0,0,27,0
+EAT-AS2M (frozen),pos_split,ava_sm5,1754,16,0,16,0,0,16,0,0,16,0
+EAT-AS2M (frozen),pos_split,jamendo_B,12189,259,0,259,0,0,259,0,0,259,0
+EAT-AS2M (frozen),pos_split,ava_sm_long,1251,13,0,13,0,0,13,0,0,13,0
+EAT-AS2M (frozen),pos_split,audioset_sm,342,24,0,24,0,0,24,0,0,24,0
+EAT-AS2M (frozen),pos_split,ava_mo,1913,30,0,30,0,0,30,0,0,30,0
+EAT-AS2M (frozen),pos_split,ava_cs_long,381,4,0,4,0,0,4,0,0,4,0
+EAT-AS2M (frozen),pos_split,ava_amb_long,1091,52,0,52,0,0,52,0,0,52,0
+EAT-AS2M (frozen),pos_split,librispeech_tc,3540,14,0,14,0,0,14,0,0,14,0
+EAT-AS2M (frozen),pos_split,null_pink30,500,500,0,500,0,0,500,0,0,500,0
+EAT-AS2M (frozen),pos_split,null_white30,500,500,0,500,0,0,500,0,0,500,0
+EAT-AS2M (frozen),pos_split,null_dither30,500,500,0,500,0,0,500,0,0,500,0
+EAT-AS2M (frozen),free_mlp,openbmat_human_musicbearing,13541,55,2,53,0,3,47,5,1,54,0
+EAT-AS2M (frozen),free_mlp,musdb18,1724,21,4,17,0,5,10,6,2,19,0
+EAT-AS2M (frozen),free_mlp,gtzan,5024,21,4,17,0,2,8,11,1,20,0
+EAT-AS2M (frozen),free_mlp,ava_sm5,1754,9,1,8,0,0,5,4,0,9,0
+EAT-AS2M (frozen),free_mlp,jamendo_B,12189,276,72,204,0,70,124,82,21,255,0
+EAT-AS2M (frozen),free_mlp,ava_sm_long,1251,7,1,6,0,0,4,3,0,7,0
+EAT-AS2M (frozen),free_mlp,audioset_sm,342,3,0,3,0,0,3,0,0,3,0
+EAT-AS2M (frozen),free_mlp,ava_mo,1913,30,4,26,0,4,19,7,2,28,0
+EAT-AS2M (frozen),free_mlp,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+EAT-AS2M (frozen),free_mlp,ava_amb_long,1091,12,0,12,0,0,10,2,0,12,0
+EAT-AS2M (frozen),free_mlp,librispeech_tc,3540,5,0,5,0,0,5,0,0,5,0
+EAT-AS2M (frozen),free_mlp,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+EAT-AS2M (frozen),free_mlp,null_white30,500,0,0,0,0,0,0,0,0,0,0
+EAT-AS2M (frozen),free_mlp,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+EAT-AS2M (frozen),pos_mlp,openbmat_human_musicbearing,13541,214,0,214,0,0,214,0,0,214,0
+EAT-AS2M (frozen),pos_mlp,musdb18,1724,24,0,24,0,0,24,0,0,24,0
+EAT-AS2M (frozen),pos_mlp,gtzan,5024,45,0,45,0,0,45,0,0,45,0
+EAT-AS2M (frozen),pos_mlp,ava_sm5,1754,12,0,12,0,0,12,0,0,12,0
+EAT-AS2M (frozen),pos_mlp,jamendo_B,12189,251,0,251,0,0,251,0,0,251,0
+EAT-AS2M (frozen),pos_mlp,ava_sm_long,1251,9,0,9,0,0,9,0,0,9,0
+EAT-AS2M (frozen),pos_mlp,audioset_sm,342,9,0,9,0,0,9,0,0,9,0
+EAT-AS2M (frozen),pos_mlp,ava_mo,1913,43,0,43,0,0,43,0,0,43,0
+EAT-AS2M (frozen),pos_mlp,ava_cs_long,381,3,0,3,0,0,3,0,0,3,0
+EAT-AS2M (frozen),pos_mlp,ava_amb_long,1091,37,0,37,0,0,37,0,0,37,0
+EAT-AS2M (frozen),pos_mlp,librispeech_tc,3540,88,0,88,0,0,88,0,0,88,0
+EAT-AS2M (frozen),pos_mlp,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+EAT-AS2M (frozen),pos_mlp,null_white30,500,0,0,0,0,0,0,0,0,0,0
+EAT-AS2M (frozen),pos_mlp,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),free_split,openbmat_human_musicbearing,13541,133,12,7,114,3,1,129,20,13,100
+MERT (frozen),free_split,musdb18,1724,52,1,16,35,1,8,43,4,21,27
+MERT (frozen),free_split,gtzan,5024,13,2,1,10,5,1,7,2,1,10
+MERT (frozen),free_split,ava_sm5,1754,7,0,0,7,1,0,6,0,2,5
+MERT (frozen),free_split,jamendo_B,12189,334,16,53,265,2,11,321,25,102,207
+MERT (frozen),free_split,ava_sm_long,1251,6,0,0,6,0,0,6,0,2,4
+MERT (frozen),free_split,audioset_sm,342,2,1,0,1,1,0,1,1,0,1
+MERT (frozen),free_split,ava_mo,1913,30,0,6,24,0,0,30,0,15,15
+MERT (frozen),free_split,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),free_split,ava_amb_long,1091,4,0,0,4,0,0,4,0,2,2
+MERT (frozen),free_split,librispeech_tc,3540,76,0,0,76,0,0,76,0,1,75
+MERT (frozen),free_split,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),free_split,null_white30,500,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),free_split,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),pos_split,openbmat_human_musicbearing,13541,46,0,46,0,0,46,0,0,46,0
+MERT (frozen),pos_split,musdb18,1724,62,0,62,0,0,62,0,0,62,0
+MERT (frozen),pos_split,gtzan,5024,23,0,23,0,0,23,0,0,23,0
+MERT (frozen),pos_split,ava_sm5,1754,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),pos_split,jamendo_B,12189,261,0,261,0,0,261,0,0,261,0
+MERT (frozen),pos_split,ava_sm_long,1251,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),pos_split,audioset_sm,342,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),pos_split,ava_mo,1913,21,0,21,0,0,21,0,0,21,0
+MERT (frozen),pos_split,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),pos_split,ava_amb_long,1091,12,0,12,0,0,12,0,0,12,0
+MERT (frozen),pos_split,librispeech_tc,3540,85,0,85,0,0,85,0,0,85,0
+MERT (frozen),pos_split,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),pos_split,null_white30,500,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),pos_split,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),free_mlp,openbmat_human_musicbearing,13541,165,50,106,9,14,52,99,27,138,0
+MERT (frozen),free_mlp,musdb18,1724,52,35,17,0,28,8,16,32,20,0
+MERT (frozen),free_mlp,gtzan,5024,49,8,36,5,1,21,27,5,44,0
+MERT (frozen),free_mlp,ava_sm5,1754,5,0,5,0,0,2,3,0,5,0
+MERT (frozen),free_mlp,jamendo_B,12189,344,211,128,5,116,54,174,159,185,0
+MERT (frozen),free_mlp,ava_sm_long,1251,5,0,5,0,0,2,3,0,5,0
+MERT (frozen),free_mlp,audioset_sm,342,3,3,0,0,2,0,1,3,0,0
+MERT (frozen),free_mlp,ava_mo,1913,31,6,24,1,0,12,19,3,28,0
+MERT (frozen),free_mlp,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),free_mlp,ava_amb_long,1091,5,4,1,0,2,0,3,2,3,0
+MERT (frozen),free_mlp,librispeech_tc,3540,30,17,10,3,2,3,25,10,20,0
+MERT (frozen),free_mlp,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),free_mlp,null_white30,500,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),free_mlp,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),pos_mlp,openbmat_human_musicbearing,13541,215,0,215,0,0,215,0,0,215,0
+MERT (frozen),pos_mlp,musdb18,1724,30,0,30,0,0,30,0,0,30,0
+MERT (frozen),pos_mlp,gtzan,5024,39,0,39,0,0,39,0,0,39,0
+MERT (frozen),pos_mlp,ava_sm5,1754,6,0,6,0,0,6,0,0,6,0
+MERT (frozen),pos_mlp,jamendo_B,12189,284,0,284,0,0,284,0,0,284,0
+MERT (frozen),pos_mlp,ava_sm_long,1251,5,0,5,0,0,5,0,0,5,0
+MERT (frozen),pos_mlp,audioset_sm,342,2,0,2,0,0,2,0,0,2,0
+MERT (frozen),pos_mlp,ava_mo,1913,38,0,38,0,0,38,0,0,38,0
+MERT (frozen),pos_mlp,ava_cs_long,381,2,0,2,0,0,2,0,0,2,0
+MERT (frozen),pos_mlp,ava_amb_long,1091,8,0,8,0,0,8,0,0,8,0
+MERT (frozen),pos_mlp,librispeech_tc,3540,9,0,9,0,0,9,0,0,9,0
+MERT (frozen),pos_mlp,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),pos_mlp,null_white30,500,0,0,0,0,0,0,0,0,0,0
+MERT (frozen),pos_mlp,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+CLAP (frozen),free_split,openbmat_human_musicbearing,13541,12,1,1,10,1,0,11,0,1,11
+CLAP (frozen),free_split,musdb18,1724,10,1,1,8,0,0,10,0,2,8
+CLAP (frozen),free_split,gtzan,5024,15,0,1,14,0,1,14,3,2,10
+CLAP (frozen),free_split,ava_sm5,1754,8,0,0,8,1,0,7,1,0,7
+CLAP (frozen),free_split,jamendo_B,12189,259,8,58,193,1,19,239,7,80,172
+CLAP (frozen),free_split,ava_sm_long,1251,6,0,0,6,1,0,5,1,0,5
+CLAP (frozen),free_split,audioset_sm,342,1,0,0,1,0,0,1,0,0,1
+CLAP (frozen),free_split,ava_mo,1913,41,0,4,37,0,2,39,1,5,35
+CLAP (frozen),free_split,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+CLAP (frozen),free_split,ava_amb_long,1091,18,0,5,13,0,3,15,1,5,12
+CLAP (frozen),free_split,librispeech_tc,3540,16,2,0,14,0,0,16,1,0,15
+CLAP (frozen),free_split,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+CLAP (frozen),free_split,null_white30,500,6,0,0,6,0,0,6,0,0,6
+CLAP (frozen),free_split,null_dither30,500,6,0,0,6,0,0,6,0,0,6
+CLAP (frozen),pos_split,openbmat_human_musicbearing,13541,32,0,32,0,0,32,0,0,32,0
+CLAP (frozen),pos_split,musdb18,1724,29,0,29,0,0,29,0,0,29,0
+CLAP (frozen),pos_split,gtzan,5024,21,0,21,0,0,21,0,0,21,0
+CLAP (frozen),pos_split,ava_sm5,1754,1,0,1,0,0,1,0,0,1,0
+CLAP (frozen),pos_split,jamendo_B,12189,178,0,178,0,0,178,0,0,178,0
+CLAP (frozen),pos_split,ava_sm_long,1251,1,0,1,0,0,1,0,0,1,0
+CLAP (frozen),pos_split,audioset_sm,342,2,0,2,0,0,2,0,0,2,0
+CLAP (frozen),pos_split,ava_mo,1913,42,0,42,0,0,42,0,0,42,0
+CLAP (frozen),pos_split,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+CLAP (frozen),pos_split,ava_amb_long,1091,20,0,20,0,0,20,0,0,20,0
+CLAP (frozen),pos_split,librispeech_tc,3540,0,0,0,0,0,0,0,0,0,0
+CLAP (frozen),pos_split,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+CLAP (frozen),pos_split,null_white30,500,0,0,0,0,0,0,0,0,0,0
+CLAP (frozen),pos_split,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+CLAP (frozen),free_mlp,openbmat_human_musicbearing,13541,5,0,5,0,0,4,1,0,5,0
+CLAP (frozen),free_mlp,musdb18,1724,23,11,6,6,2,0,21,9,14,0
+CLAP (frozen),free_mlp,gtzan,5024,0,0,0,0,0,0,0,0,0,0
+CLAP (frozen),free_mlp,ava_sm5,1754,15,10,3,2,5,2,8,10,5,0
+CLAP (frozen),free_mlp,jamendo_B,12189,264,72,149,43,33,32,199,62,202,0
+CLAP (frozen),free_mlp,ava_sm_long,1251,12,7,3,2,5,2,5,7,5,0
+CLAP (frozen),free_mlp,audioset_sm,342,4,3,1,0,1,0,3,3,1,0
+CLAP (frozen),free_mlp,ava_mo,1913,55,12,28,15,3,4,48,14,41,0
+CLAP (frozen),free_mlp,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+CLAP (frozen),free_mlp,ava_amb_long,1091,19,7,7,5,4,2,13,7,12,0
+CLAP (frozen),free_mlp,librispeech_tc,3540,25,17,3,5,8,2,15,16,8,1
+CLAP (frozen),free_mlp,null_pink30,500,358,288,56,14,132,0,226,174,184,0
+CLAP (frozen),free_mlp,null_white30,500,499,0,493,6,0,51,448,0,499,0
+CLAP (frozen),free_mlp,null_dither30,500,497,0,487,10,2,57,438,0,497,0
+CLAP (frozen),pos_mlp,openbmat_human_musicbearing,13541,5,0,5,0,0,5,0,0,5,0
+CLAP (frozen),pos_mlp,musdb18,1724,1,0,1,0,0,1,0,0,1,0
+CLAP (frozen),pos_mlp,gtzan,5024,0,0,0,0,0,0,0,0,0,0
+CLAP (frozen),pos_mlp,ava_sm5,1754,8,0,8,0,0,8,0,0,8,0
+CLAP (frozen),pos_mlp,jamendo_B,12189,199,0,199,0,0,199,0,0,199,0
+CLAP (frozen),pos_mlp,ava_sm_long,1251,8,0,8,0,0,8,0,0,8,0
+CLAP (frozen),pos_mlp,audioset_sm,342,0,0,0,0,0,0,0,0,0,0
+CLAP (frozen),pos_mlp,ava_mo,1913,39,0,39,0,0,39,0,0,39,0
+CLAP (frozen),pos_mlp,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+CLAP (frozen),pos_mlp,ava_amb_long,1091,9,0,9,0,0,9,0,0,9,0
+CLAP (frozen),pos_mlp,librispeech_tc,3540,2,0,2,0,0,2,0,0,2,0
+CLAP (frozen),pos_mlp,null_pink30,500,14,0,14,0,0,14,0,0,14,0
+CLAP (frozen),pos_mlp,null_white30,500,485,0,485,0,0,485,0,0,485,0
+CLAP (frozen),pos_mlp,null_dither30,500,481,0,481,0,0,481,0,0,481,0
+Fakeprint LR,orig,openbmat_human_musicbearing,13541,11,0,0,11,1,0,10,1,0,10
+Fakeprint LR,orig,musdb18,1724,61,1,0,60,1,0,60,0,0,61
+Fakeprint LR,orig,gtzan,5024,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,orig,ava_sm5,1754,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,orig,jamendo_B,12189,212,4,0,208,11,0,201,2,0,210
+Fakeprint LR,orig,ava_sm_long,1251,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,orig,audioset_sm,342,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,orig,ava_mo,1913,1,0,0,1,0,0,1,0,0,1
+Fakeprint LR,orig,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,orig,ava_amb_long,1091,1,0,0,1,0,0,1,0,0,1
+Fakeprint LR,orig,librispeech_tc,3540,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,orig,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,orig,null_white30,500,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,orig,null_dither30,500,500,0,0,500,0,0,500,0,0,500
+Fakeprint LR,free_split,openbmat_human_musicbearing,13541,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,free_split,musdb18,1724,73,9,17,47,0,9,64,23,27,23
+Fakeprint LR,free_split,gtzan,5024,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,free_split,ava_sm5,1754,68,43,1,24,30,1,37,53,4,11
+Fakeprint LR,free_split,jamendo_B,12189,277,55,77,145,22,40,215,80,119,78
+Fakeprint LR,free_split,ava_sm_long,1251,51,42,0,9,29,0,22,50,0,1
+Fakeprint LR,free_split,audioset_sm,342,16,12,1,3,8,0,8,15,1,0
+Fakeprint LR,free_split,ava_mo,1913,82,39,9,34,12,2,68,57,16,9
+Fakeprint LR,free_split,ava_cs_long,381,16,16,0,0,14,0,2,16,0,0
+Fakeprint LR,free_split,ava_amb_long,1091,58,51,0,7,29,0,29,55,0,3
+Fakeprint LR,free_split,librispeech_tc,3540,182,97,23,62,75,8,99,108,41,33
+Fakeprint LR,free_split,null_pink30,500,23,23,0,0,8,0,15,23,0,0
+Fakeprint LR,free_split,null_white30,500,20,18,0,2,5,0,15,20,0,0
+Fakeprint LR,free_split,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,pos_split,openbmat_human_musicbearing,13541,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,pos_split,musdb18,1724,62,0,62,0,0,62,0,0,62,0
+Fakeprint LR,pos_split,gtzan,5024,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,pos_split,ava_sm5,1754,15,0,15,0,0,15,0,0,15,0
+Fakeprint LR,pos_split,jamendo_B,12189,250,0,250,0,0,250,0,0,250,0
+Fakeprint LR,pos_split,ava_sm_long,1251,3,0,3,0,0,3,0,0,3,0
+Fakeprint LR,pos_split,audioset_sm,342,3,0,3,0,0,3,0,0,3,0
+Fakeprint LR,pos_split,ava_mo,1913,21,0,21,0,0,21,0,0,21,0
+Fakeprint LR,pos_split,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,pos_split,ava_amb_long,1091,6,0,6,0,0,6,0,0,6,0
+Fakeprint LR,pos_split,librispeech_tc,3540,103,0,103,0,0,103,0,0,103,0
+Fakeprint LR,pos_split,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,pos_split,null_white30,500,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,pos_split,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,free_mlp,openbmat_human_musicbearing,13541,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,free_mlp,musdb18,1724,72,0,72,0,23,31,18,0,72,0
+Fakeprint LR,free_mlp,gtzan,5024,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,free_mlp,ava_sm5,1754,33,0,33,0,9,7,17,0,33,0
+Fakeprint LR,free_mlp,jamendo_B,12189,303,0,303,0,75,135,93,0,303,0
+Fakeprint LR,free_mlp,ava_sm_long,1251,19,0,19,0,6,4,9,0,19,0
+Fakeprint LR,free_mlp,audioset_sm,342,9,0,9,0,3,1,5,0,9,0
+Fakeprint LR,free_mlp,ava_mo,1913,61,0,61,0,25,21,15,0,61,0
+Fakeprint LR,free_mlp,ava_cs_long,381,9,0,9,0,6,0,3,0,9,0
+Fakeprint LR,free_mlp,ava_amb_long,1091,25,0,25,0,15,3,7,0,25,0
+Fakeprint LR,free_mlp,librispeech_tc,3540,115,0,115,0,34,34,47,0,115,0
+Fakeprint LR,free_mlp,null_pink30,500,7,0,7,0,5,2,0,0,7,0
+Fakeprint LR,free_mlp,null_white30,500,9,0,9,0,7,2,0,0,9,0
+Fakeprint LR,free_mlp,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,pos_mlp,openbmat_human_musicbearing,13541,1,0,1,0,0,1,0,0,1,0
+Fakeprint LR,pos_mlp,musdb18,1724,74,0,74,0,0,74,0,0,74,0
+Fakeprint LR,pos_mlp,gtzan,5024,0,0,0,0,0,0,0,0,0,0
+Fakeprint LR,pos_mlp,ava_sm5,1754,35,0,35,0,0,35,0,0,35,0
+Fakeprint LR,pos_mlp,jamendo_B,12189,298,0,298,0,0,298,0,0,298,0
+Fakeprint LR,pos_mlp,ava_sm_long,1251,24,0,24,0,0,24,0,0,24,0
+Fakeprint LR,pos_mlp,audioset_sm,342,8,0,8,0,0,8,0,0,8,0
+Fakeprint LR,pos_mlp,ava_mo,1913,54,0,54,0,0,54,0,0,54,0
+Fakeprint LR,pos_mlp,ava_cs_long,381,9,0,9,0,0,9,0,0,9,0
+Fakeprint LR,pos_mlp,ava_amb_long,1091,20,0,20,0,0,20,0,0,20,0
+Fakeprint LR,pos_mlp,librispeech_tc,3540,112,0,112,0,0,112,0,0,112,0
+Fakeprint LR,pos_mlp,null_pink30,500,5,0,5,0,0,5,0,0,5,0
+Fakeprint LR,pos_mlp,null_white30,500,10,0,10,0,0,10,0,0,10,0
+Fakeprint LR,pos_mlp,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+M0,orig,openbmat_human_musicbearing,13541,999,0,999,0,168,831,0,0,999,0
+M0,orig,musdb18,1724,46,0,46,0,3,43,0,0,46,0
+M0,orig,gtzan,5024,135,0,135,0,16,119,0,0,135,0
+M0,orig,ava_sm5,1754,60,0,60,0,11,49,0,0,60,0
+M0,orig,jamendo_B,12189,317,0,317,0,36,281,0,0,317,0
+M0,orig,ava_sm_long,1251,18,0,18,0,6,12,0,0,18,0
+M0,orig,audioset_sm,342,18,0,18,0,5,13,0,0,18,0
+M0,orig,ava_mo,1913,40,0,40,0,7,33,0,0,40,0
+M0,orig,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+M0,orig,ava_amb_long,1091,5,0,5,0,0,5,0,0,5,0
+M0,orig,librispeech_tc,3540,97,0,97,0,5,92,0,0,97,0
+M0,orig,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+M0,orig,null_white30,500,0,0,0,0,0,0,0,0,0,0
+M0,orig,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+M0,free_split,openbmat_human_musicbearing,13541,352,63,44,245,26,3,323,79,76,197
+M0,free_split,musdb18,1724,29,1,17,11,0,9,20,2,19,8
+M0,free_split,gtzan,5024,74,16,5,53,11,1,62,16,10,48
+M0,free_split,ava_sm5,1754,24,2,15,7,1,8,15,3,18,3
+M0,free_split,jamendo_B,12189,274,42,54,178,17,19,238,51,80,143
+M0,free_split,ava_sm_long,1251,5,1,0,4,0,0,5,2,0,3
+M0,free_split,audioset_sm,342,4,3,0,1,2,0,2,3,0,1
+M0,free_split,ava_mo,1913,30,10,7,13,5,4,21,9,8,13
+M0,free_split,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+M0,free_split,ava_amb_long,1091,3,0,0,3,0,0,3,0,0,3
+M0,free_split,librispeech_tc,3540,17,0,10,7,0,3,14,0,13,4
+M0,free_split,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+M0,free_split,null_white30,500,0,0,0,0,0,0,0,0,0,0
+M0,free_split,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+M0,pos_split,openbmat_human_musicbearing,13541,381,0,381,0,0,381,0,0,381,0
+M0,pos_split,musdb18,1724,41,0,41,0,0,41,0,0,41,0
+M0,pos_split,gtzan,5024,64,0,64,0,0,64,0,0,64,0
+M0,pos_split,ava_sm5,1754,39,0,39,0,0,39,0,0,39,0
+M0,pos_split,jamendo_B,12189,242,0,242,0,0,242,0,0,242,0
+M0,pos_split,ava_sm_long,1251,3,0,3,0,0,3,0,0,3,0
+M0,pos_split,audioset_sm,342,1,0,1,0,0,1,0,0,1,0
+M0,pos_split,ava_mo,1913,34,0,34,0,0,34,0,0,34,0
+M0,pos_split,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+M0,pos_split,ava_amb_long,1091,1,0,1,0,0,1,0,0,1,0
+M0,pos_split,librispeech_tc,3540,27,0,27,0,0,27,0,0,27,0
+M0,pos_split,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+M0,pos_split,null_white30,500,0,0,0,0,0,0,0,0,0,0
+M0,pos_split,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+M0,free_mlp,openbmat_human_musicbearing,13541,482,0,482,0,2,479,1,0,482,0
+M0,free_mlp,musdb18,1724,24,0,24,0,5,18,1,0,24,0
+M0,free_mlp,gtzan,5024,103,0,103,0,0,102,1,0,103,0
+M0,free_mlp,ava_sm5,1754,43,0,43,0,0,43,0,0,43,0
+M0,free_mlp,jamendo_B,12189,265,2,263,0,35,227,3,0,265,0
+M0,free_mlp,ava_sm_long,1251,10,0,10,0,0,10,0,0,10,0
+M0,free_mlp,audioset_sm,342,7,0,7,0,0,7,0,0,7,0
+M0,free_mlp,ava_mo,1913,58,0,58,0,5,53,0,0,58,0
+M0,free_mlp,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+M0,free_mlp,ava_amb_long,1091,2,0,2,0,0,2,0,0,2,0
+M0,free_mlp,librispeech_tc,3540,27,0,27,0,0,27,0,0,27,0
+M0,free_mlp,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+M0,free_mlp,null_white30,500,0,0,0,0,0,0,0,0,0,0
+M0,free_mlp,null_dither30,500,0,0,0,0,0,0,0,0,0,0
+M0,pos_mlp,openbmat_human_musicbearing,13541,635,0,635,0,0,635,0,0,635,0
+M0,pos_mlp,musdb18,1724,18,0,18,0,0,18,0,0,18,0
+M0,pos_mlp,gtzan,5024,130,0,130,0,0,130,0,0,130,0
+M0,pos_mlp,ava_sm5,1754,50,0,50,0,0,50,0,0,50,0
+M0,pos_mlp,jamendo_B,12189,246,0,246,0,0,246,0,0,246,0
+M0,pos_mlp,ava_sm_long,1251,14,0,14,0,0,14,0,0,14,0
+M0,pos_mlp,audioset_sm,342,10,0,10,0,0,10,0,0,10,0
+M0,pos_mlp,ava_mo,1913,51,0,51,0,0,51,0,0,51,0
+M0,pos_mlp,ava_cs_long,381,0,0,0,0,0,0,0,0,0,0
+M0,pos_mlp,ava_amb_long,1091,1,0,1,0,0,1,0,0,1,0
+M0,pos_mlp,librispeech_tc,3540,28,0,28,0,0,28,0,0,28,0
+M0,pos_mlp,null_pink30,500,0,0,0,0,0,0,0,0,0,0
+M0,pos_mlp,null_white30,500,0,0,0,0,0,0,0,0,0,0
+M0,pos_mlp,null_dither30,500,0,0,0,0,0,0,0,0,0,0

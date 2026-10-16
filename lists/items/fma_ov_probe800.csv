@@ -1,0 +1,801 @@
+item_id,target,group,track_id,artist_id,set_split,set_subset,track_license
+115939,0,115939,115939,19717,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+020086,0,020086,20086,5337,training,medium,CC0 1.0 Universal
+129397,0,129397,129397,21297,training,small,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+067358,0,067358,67358,13990,training,small,Attribution-NonCommercial
+074194,0,074194,74194,15082,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+067586,0,067586,67586,14027,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+037051,0,037051,37051,8812,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+010260,0,010260,10260,2440,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+072686,0,072686,72686,14746,training,medium,Attribution-NonCommercial-ShareAlike 3.0 International
+140306,0,140306,140306,22466,training,medium,Attribution-Noncommercial-Share Alike 3.0 United States
+144616,0,144616,144616,23014,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+042615,0,042615,42615,10000,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+076361,0,076361,76361,15427,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+013999,0,013999,13999,3883,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+152052,0,152052,152052,23974,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+027127,0,027127,27127,6882,training,large,Attribution
+104026,0,104026,104026,17619,training,large,Attribution-NonCommercial-ShareAlike 3.0 (Will Not Appear in Vimeo Music Store)
+041091,0,041091,41091,9647,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+146367,0,146367,146367,23296,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+140908,0,140908,140908,20103,training,large,Attribution-NonCommercial-ShareAlike
+154603,0,154603,154603,24270,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+053256,0,053256,53256,5854,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+030319,0,030319,30319,7537,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+041869,0,041869,41869,9868,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+054626,0,054626,54626,12023,training,small,Attribution-NonCommercial-ShareAlike 3.0 International
+053019,0,053019,53019,11765,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+028803,0,028803,28803,7220,training,large,Attribution-Noncommercial-NoDerivatives 2.0 France
+024742,0,024742,24742,6350,training,small,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+154089,0,154089,154089,24156,training,large,Attribution-NonCommercial-ShareAlike
+120029,0,120029,120029,2021,training,large,Attribution-NonCommercial
+095099,0,095099,95099,17475,training,large,Attribution-NonCommercial-ShareAlike
+050194,0,050194,50194,11317,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+069964,0,069964,69964,14347,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+149074,0,149074,149074,23646,training,medium,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+084124,0,084124,84124,16263,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+046089,0,046089,46089,6454,training,medium,Attribution-Noncommercial-NoDerivatives 2.0 France
+114458,0,114458,114458,19503,training,large,CC0 1.0 Universal
+074966,0,074966,74966,15223,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+060847,0,060847,60847,13041,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+036514,0,036514,36514,6196,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+053058,0,053058,53058,11791,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+148064,0,148064,148064,23530,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+146909,0,146909,146909,23293,training,large,Attribution-NonCommercial-ShareAlike
+065552,0,065552,65552,13079,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+079163,0,079163,79163,15610,training,large,Attribution-NoDerivatives 3.0 International
+089653,0,089653,89653,16889,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+021703,0,021703,21703,5754,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+065556,0,065556,65556,13714,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+081857,0,081857,81857,15911,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+082443,0,082443,82443,16008,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+013593,0,013593,13593,3718,training,medium,Attribution-Noncommercial-NoDerivatives 2.0 France
+038369,0,038369,38369,9173,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+069355,0,069355,69355,14224,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+070971,0,070971,70971,14415,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+012344,0,012344,12344,3301,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+122807,0,122807,122807,20544,training,small,Attribution-Noncommercial-Share Alike 3.0 United States
+014629,0,014629,14629,4051,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+131883,0,131883,131883,21614,training,large,Attribution-NonCommercial-ShareAlike
+040259,0,040259,40259,9471,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+096554,0,096554,96554,17684,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+052717,0,052717,52717,734,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+149752,0,149752,149752,23711,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+118640,0,118640,118640,20060,training,large,Attribution-ShareAlike
+013089,0,013089,13089,3567,training,large,Attribution
+028362,0,028362,28362,7134,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+066570,0,066570,66570,8547,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+047770,0,047770,47770,10941,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+065183,0,065183,65183,13579,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+140288,0,140288,140288,22456,training,medium,Attribution-Noncommercial-Share Alike 3.0 United States
+076114,0,076114,76114,12429,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+154044,0,154044,154044,24145,training,large,Attribution-NonCommercial-ShareAlike
+072532,0,072532,72532,14738,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+139401,0,139401,139401,22348,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+010092,0,010092,10092,2377,training,large,Attribution-Noncommercial 3.0 United States
+085653,0,085653,85653,16492,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+016393,0,016393,16393,2372,training,medium,Public Domain / Sound Recording Common Law Protection
+094549,0,094549,94549,17325,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+075500,0,075500,75500,15278,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+115919,0,115919,115919,19707,training,medium,Attribution-Noncommercial-Share Alike 3.0 United States
+120410,0,120410,120410,7305,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+084155,0,084155,84155,16276,training,small,Attribution-Noncommercial-Share Alike 3.0 United States
+114517,0,114517,114517,19511,training,large,CC0 1.0 Universal
+143461,0,143461,143461,22830,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+143662,0,143662,143662,22881,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+154653,0,154653,154653,24286,training,large,Attribution-NonCommercial-ShareAlike
+038553,0,038553,38553,9202,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+068710,0,068710,68710,14159,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+145259,0,145259,145259,23152,training,small,Attribution-ShareAlike
+053724,0,053724,53724,9162,training,small,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+073403,0,073403,73403,14929,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+046702,0,046702,46702,10693,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+033901,0,033901,33901,8372,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+142152,0,142152,142152,22605,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+054712,0,054712,54712,12033,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+064202,0,064202,64202,6006,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+104907,0,104907,104907,18349,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+093550,0,093550,93550,16285,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+013519,0,013519,13519,3673,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+014291,0,014291,14291,3935,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+118583,0,118583,118583,20052,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+146195,0,146195,146195,23265,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+039328,0,039328,39328,9361,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+014003,0,014003,14003,3886,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+063432,0,063432,63432,13384,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+118011,0,118011,118011,19935,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+097356,0,097356,97356,17841,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+050557,0,050557,50557,11385,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+006373,0,006373,6373,1839,training,small,Attribution-Noncommercial-Share Alike 3.0 United States
+112225,0,112225,112225,15277,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+015487,0,015487,15487,4286,training,small,Public Domain
+069472,0,069472,69472,9622,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+038548,0,038548,38548,9197,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+118477,0,118477,118477,20047,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+035438,0,035438,35438,8608,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+050260,0,050260,50260,11332,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+066592,0,066592,66592,13857,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+142775,0,142775,142775,22744,training,large,Attribution-NonCommercial-ShareAlike
+037066,0,037066,37066,8827,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+154836,0,154836,154836,24306,training,large,CC0 1.0 Universal
+151682,0,151682,151682,23899,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+020064,0,020064,20064,4375,training,large,Attribution 1.0 Finland
+031262,0,031262,31262,7733,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+041079,0,041079,41079,9644,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+084598,0,084598,84598,16329,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+005012,0,005012,5012,1664,training,medium,Attribution-Noncommercial 3.0 United States
+112175,0,112175,112175,19251,training,large,Attribution-NonCommercial-ShareAlike
+100743,0,100743,100743,18150,training,large,Attribution-NonCommercial-ShareAlike
+013594,0,013594,13594,3719,training,large,Attribution-Noncommercial-No Derivative Works 2.5 Portugal
+041140,0,041140,41140,9689,training,large,Attribution-Noncommercial-Share Alike 3.0 Netherlands
+144537,0,144537,144537,22995,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+046262,0,046262,46262,10598,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+120040,0,120040,120040,1779,training,large,CC0 1.0 Universal
+126778,0,126778,126778,21033,training,small,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+100380,0,100380,100380,18129,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+076472,0,076472,76472,12798,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+060637,0,060637,60637,12988,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+084765,0,084765,84765,15633,training,medium,Attribution-Noncommercial-Share Alike 3.0 United States
+148716,0,148716,148716,23623,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+035051,0,035051,35051,7585,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+132551,0,132551,132551,21710,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+043421,0,043421,43421,10129,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+143888,0,143888,143888,22948,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+082064,0,082064,82064,15970,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+000638,0,000638,638,130,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+041974,0,041974,41974,9892,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+074344,0,074344,74344,15104,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+077959,0,077959,77959,15557,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+046509,0,046509,46509,10623,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+010970,0,010970,10970,2893,training,medium,Attribution-Noncommercial-Share Alike 3.0 United States
+136854,0,136854,136854,22090,training,large,Attribution
+119904,0,119904,119904,20150,training,large,Attribution-NonCommercial-ShareAlike
+138183,0,138183,138183,22225,training,large,Attribution-NonCommercial
+041401,0,041401,41401,9756,training,large,Public Domain Mark 1.0
+003768,0,003768,3768,6,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+088932,0,088932,88932,16855,training,large,CC0 1.0 Universal
+098615,0,098615,98615,17784,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+143660,0,143660,143660,22879,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+011639,0,011639,11639,3020,training,medium,Attribution-Noncommercial-Share Alike 3.0 United States
+082911,0,082911,82911,16069,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+049357,0,049357,49357,11199,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+122548,0,122548,122548,20511,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+055308,0,055308,55308,10005,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+120097,0,120097,120097,2016,training,large,Attribution-NonCommercial
+031804,0,031804,31804,7838,training,medium,Attribution-Noncommercial-Share Alike 3.0 United States
+065866,0,065866,65866,13744,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+010413,0,010413,10413,2515,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+029348,0,029348,29348,7323,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+063477,0,063477,63477,13388,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+012537,0,012537,12537,3384,training,small,Attribution-NonCommercial-ShareAlike 3.0 International
+019411,0,019411,19411,5106,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+061564,0,061564,61564,13122,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+039292,0,039292,39292,9338,training,large,Attribution
+029802,0,029802,29802,7416,training,large,Attribution-Noncommercial-No Derivative Works 3.0 Germany
+052706,0,052706,52706,11680,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+116250,0,116250,116250,19787,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+012273,0,012273,12273,3290,training,large,Attribution-ShareAlike 3.0 International
+082316,0,082316,82316,15921,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+154084,0,154084,154084,22870,training,large,Attribution-NonCommercial-ShareAlike
+106608,0,106608,106608,18678,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+053016,0,053016,53016,11763,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+041460,0,041460,41460,6940,training,medium,Attribution-NonCommercial 3.0 International
+072113,0,072113,72113,14672,training,large,Attribution-Noncommercial 3.0 United States
+009980,0,009980,9980,2128,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+056517,0,056517,56517,12272,training,small,Attribution-NonCommercial-ShareAlike 3.0 International
+044895,0,044895,44895,10380,training,medium,Attribution-NonCommercial-ShareAlike 3.0 International
+154347,0,154347,154347,24238,training,large,Attribution-NonCommercial-ShareAlike
+050829,0,050829,50829,11423,training,medium,Attribution-NonCommercial-ShareAlike 3.0 International
+085126,0,085126,85126,16432,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+063380,0,063380,63380,13355,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+073384,0,073384,73384,14938,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+074013,0,074013,74013,3217,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+149659,0,149659,149659,21331,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+039325,0,039325,39325,9356,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+060994,0,060994,60994,13059,training,small,Attribution-Noncommercial-Share Alike 3.0 United States
+104137,0,104137,104137,18279,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+010694,0,010694,10694,2631,training,small,Creative Commons Attribution
+070046,0,070046,70046,14354,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+058453,0,058453,58453,12695,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+070395,0,070395,70395,14406,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+033943,0,033943,33943,8385,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+152031,0,152031,152031,23966,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+094141,0,094141,94141,17388,training,large,Attribution-Noncommercial 3.0 United States
+060192,0,060192,60192,12916,training,medium,Attribution-Noncommercial-Share Alike 3.0 United States
+013440,0,013440,13440,3657,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+111762,0,111762,111762,19187,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+053045,0,053045,53045,11784,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+097340,0,097340,97340,17825,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+077872,0,077872,77872,15539,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+089937,0,089937,89937,13087,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+061490,0,061490,61490,13114,training,large,Attribution
+091400,0,091400,91400,17049,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+067363,0,067363,67363,13995,training,small,Attribution-NonCommercial
+073303,0,073303,73303,14888,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+027506,0,027506,27506,6941,training,large,Attribution-Noncommercial-Share Alike 3.0 Germany
+075351,0,075351,75351,2027,training,large,Attribution-NonCommercial 3.0 International
+148312,0,148312,148312,23559,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+063383,0,063383,63383,13358,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+147976,0,147976,147976,23513,training,large,Attribution-NonCommercial-ShareAlike
+029344,0,029344,29344,7319,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+141231,0,141231,141231,21290,training,medium,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+105458,0,105458,105458,16796,training,large,Attribution 3.0 United States
+125294,0,125294,125294,20867,training,large,Attribution-NonCommercial 3.0 International
+155049,0,155049,155049,24328,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+137051,0,137051,137051,22121,training,medium,Attribution
+151653,0,151653,151653,11508,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+003520,0,003520,3520,602,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+087071,0,087071,87071,16674,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+118742,0,118742,118742,20088,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+104869,0,104869,104869,18333,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+057699,0,057699,57699,12483,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+001836,0,001836,1836,295,training,medium,Attribution-NonCommercial-ShareAlike 3.0 International
+077563,0,077563,77563,15526,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+125529,0,125529,125529,20908,training,medium,Attribution-NonCommercial-ShareAlike
+021376,0,021376,21376,5623,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+083943,0,083943,83943,16218,training,large,Attribution-NonCommercial 3.0 International
+013696,0,013696,13696,3759,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+022543,0,022543,22543,638,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+021792,0,021792,21792,5551,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+124304,0,124304,124304,20752,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+147567,0,147567,147567,23430,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+029298,0,029298,29298,7304,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+011327,0,011327,11327,2923,training,large,Public Domain
+032343,0,032343,32343,7950,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+032011,0,032011,32011,7921,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+037859,0,037859,37859,9056,training,small,Attribution-Noncommercial-Share Alike 2.5 Canada
+065604,0,065604,65604,13660,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+104764,0,104764,104764,18468,training,large,Attribution-Noncommercial 3.0 United States
+081884,0,081884,81884,8129,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+046506,0,046506,46506,10620,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+073282,0,073282,73282,14877,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+033944,0,033944,33944,8386,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+129103,0,129103,129103,21272,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+090002,0,090002,90002,17110,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+058346,0,058346,58346,12637,training,large,Attribution-ShareAlike 3.0 International
+046558,0,046558,46558,1148,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+118676,0,118676,118676,20063,training,large,Attribution-Noncommercial 3.0 United States
+113355,0,113355,113355,19387,training,medium,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+117217,0,117217,117217,19864,training,large,CC0 1.0 Universal
+014674,0,014674,14674,4082,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+008207,0,008207,8207,1950,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+126089,0,126089,126089,10151,training,large,Attribution-ShareAlike
+024790,0,024790,24790,6359,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+017662,0,017662,17662,4794,training,large,Attribution
+122899,0,122899,122899,20559,training,medium,Public Domain / Sound Recording Common Law Protection
+093573,0,093573,93573,17335,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+065222,0,065222,65222,13586,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+028786,0,028786,28786,7215,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+045559,0,045559,45559,10471,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+085641,0,085641,85641,7525,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+032768,0,032768,32768,8024,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+018013,0,018013,18013,4500,training,medium,Public Domain / Sound Recording Common Law Protection
+063925,0,063925,63925,13405,training,medium,Attribution-Noncommercial-Share Alike 2.0 UK: England 
+123523,0,123523,123523,20655,training,small,Attribution-NonCommercial-ShareAlike
+123189,0,123189,123189,20605,training,large,Attribution-NonCommercial-ShareAlike
+121376,0,121376,121376,20308,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+008413,0,008413,8413,15,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+120101,0,120101,120101,2018,training,large,Attribution-NonCommercial
+105161,0,105161,105161,6525,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+109375,0,109375,109375,19000,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+151136,0,151136,151136,23857,training,medium,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+126574,0,126574,126574,21019,training,large,Attribution-NonCommercial-ShareAlike
+010580,0,010580,10580,2342,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+010541,0,010541,10541,2583,training,small,Attribution-Noncommercial-Share Alike 3.0 United States
+112148,0,112148,112148,19228,training,large,Attribution-NonCommercial-ShareAlike
+048313,0,048313,48313,11056,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+154726,0,154726,154726,19453,training,large,Attribution
+094290,0,094290,94290,17392,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+065232,0,065232,65232,13591,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+019856,0,019856,19856,5299,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+016880,0,016880,16880,4646,training,small,Attribution-Noncommercial-Share Alike 3.0 United States
+031774,0,031774,31774,7830,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+065580,0,065580,65580,13702,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+009381,0,009381,9381,2228,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+064659,0,064659,64659,13496,training,small,Attribution-Noncommercial-Share Alike 3.0 United States
+055328,0,055328,55328,12144,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+097902,0,097902,97902,17172,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+127196,0,127196,127196,21069,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+152360,0,152360,152360,24077,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+032613,0,032613,32613,8000,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+070640,0,070640,70640,14451,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+037593,0,037593,37593,9001,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+057804,0,057804,57804,12530,training,large,Attribution-ShareAlike 3.0 International
+077960,0,077960,77960,15553,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+087079,0,087079,87079,16678,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+037117,0,037117,37117,8876,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+013555,0,013555,13555,3696,training,medium,Attribution-NonCommercial-ShareAlike 3.0 International
+007551,0,007551,7551,1433,training,medium,Attribution
+069258,0,069258,69258,7379,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+116204,0,116204,116204,19771,training,large,CC0 1.0 Universal
+040039,0,040039,40039,9445,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+098658,0,098658,98658,17973,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+140771,0,140771,140771,12422,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+067217,0,067217,67217,13965,training,large,Attribution-Noncommercial 3.0 United States
+028737,0,028737,28737,7204,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+071199,0,071199,71199,14541,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+066597,0,066597,66597,13863,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+080378,0,080378,80378,15808,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+016243,0,016243,16243,4472,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+107765,0,107765,107765,16242,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+120142,0,120142,120142,2058,training,large,Attribution-NonCommercial
+004009,0,004009,4009,1056,training,large,Attribution
+055769,0,055769,55769,12181,training,medium,Attribution-NonCommercial 3.0 International
+118100,0,118100,118100,19956,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+065488,0,065488,65488,13637,training,small,Attribution-NonCommercial-ShareAlike 3.0 International
+054846,0,054846,54846,12050,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+070472,0,070472,70472,14420,training,medium,Attribution-Share Alike 3.0 United States
+111429,0,111429,111429,19136,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+123136,0,123136,123136,20587,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+019602,0,019602,19602,5241,training,medium,Public Domain / Sound Recording Common Law Protection
+097343,0,097343,97343,17828,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+012124,0,012124,12124,3192,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+120068,0,120068,120068,1857,training,large,Attribution-NonCommercial
+073742,0,073742,73742,14986,training,large,Attribution
+030693,0,030693,30693,7590,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+119980,0,119980,119980,20155,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+012302,0,012302,12302,3296,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+041575,0,041575,41575,9789,training,large,Attribution-Noncommercial-No Derivative Works 2.5 Italy
+003990,0,003990,3990,1042,training,large,Attribution
+058372,0,058372,58372,12658,training,large,Attribution
+117213,0,117213,117213,19863,training,large,CC0 1.0 Universal
+092456,0,092456,92456,17207,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+037780,0,037780,37780,9034,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+028006,0,028006,28006,7063,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+091942,0,091942,91942,11459,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+051751,0,051751,51751,11563,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+059205,0,059205,59205,12773,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+086228,0,086228,86228,16577,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+031862,0,031862,31862,7857,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+006866,0,006866,6866,1902,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+035000,0,035000,35000,8509,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+045135,0,045135,45135,10407,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+144675,0,144675,144675,10560,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+129573,0,129573,129573,21340,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+145206,0,145206,145206,23146,training,medium,Attribution-ShareAlike
+065053,0,065053,65053,11401,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+062464,0,062464,62464,13258,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+051011,0,051011,51011,11432,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+027790,0,027790,27790,7002,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+035262,0,035262,35262,8581,training,large,Attribution-NonCommercial-NoDerivatives 2.0 Germany
+124944,0,124944,124944,20830,training,large,Attribution-NonCommercial 3.0 International
+058533,0,058533,58533,12723,training,medium,Attribution-Noncommercial-Share Alike 2.0 UK: England 
+027203,0,027203,27203,6629,training,large,Attribution
+116025,0,116025,116025,19728,training,medium,Attribution-NonCommercial-ShareAlike
+132375,0,132375,132375,21684,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+044398,0,044398,44398,10325,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+065423,0,065423,65423,13631,training,large,Attribution-NonCommercial 3.0 International
+126514,0,126514,126514,9082,training,medium,Attribution-NonCommercial-ShareAlike 3.0 International
+125273,0,125273,125273,13530,training,large,Attribution-NonCommercial
+046157,0,046157,46157,10590,training,small,Attribution-ShareAlike 3.0 International
+147627,0,147627,147627,23456,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+112126,0,112126,112126,15964,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+037324,0,037324,37324,8959,training,small,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+022194,0,022194,22194,5865,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+018584,0,018584,18584,5043,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+124471,0,124471,124471,20783,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+020206,0,020206,20206,4957,training,medium,Public Domain / Sound Recording Common Law Protection
+144743,0,144743,144743,12048,training,large,Attribution
+075010,0,075010,75010,15246,training,large,Creative Commons Attribution
+141221,0,141221,141221,22539,training,large,Attribution-NonCommercial 3.0 International
+094784,0,094784,94784,17443,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+153938,0,153938,153938,24223,training,large,Attribution-NonCommercial-ShareAlike
+020489,0,020489,20489,5444,training,medium,Attribution-NonCommercial-ShareAlike 3.0 International
+064026,0,064026,64026,7041,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+125705,0,125705,125705,20929,training,medium,Attribution-NonCommercial-ShareAlike
+033171,0,033171,33171,8148,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+108834,0,108834,108834,10882,training,large,Attribution-NonCommercial-ShareAlike 3.0 (Will Not Appear in Vimeo Music Store)
+032855,0,032855,32855,8058,training,medium,Attribution-Noncommercial-Share Alike 3.0 United States
+066403,0,066403,66403,13835,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+027514,0,027514,27514,6948,training,large,Attribution-Noncommercial-Share Alike 3.0 Germany
+001538,0,001538,1538,258,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+115246,0,115246,115246,19603,training,large,CC0 1.0 Universal
+075229,0,075229,75229,15249,training,medium,Attribution-NonCommercial-ShareAlike 3.0 International
+108293,0,108293,108293,16025,training,medium,Attribution-Noncommercial-Share Alike 3.0 United States
+115427,0,115427,115427,19634,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+098722,0,098722,98722,17988,training,medium,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+067010,0,067010,67010,13919,training,small,Attribution-NonCommercial-ShareAlike 3.0 International
+066706,0,066706,66706,13901,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+097569,0,097569,97569,17853,training,small,Attribution-Noncommercial-No Derivative Works 3.0 United States
+023572,0,023572,23572,6109,training,large,Attribution
+100154,0,100154,100154,18074,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+071137,0,071137,71137,14517,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+152281,0,152281,152281,24071,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+041845,0,041845,41845,9853,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+030258,0,030258,30258,7499,training,large,Attribution-Noncommercial-NoDerivatives 2.5 Canada
+083957,0,083957,83957,16231,training,medium,Attribution-NonCommercial 3.0 International
+041163,0,041163,41163,9723,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+085103,0,085103,85103,16422,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+039488,0,039488,39488,9395,training,small,Attribution-NonCommercial-ShareAlike 3.0 International
+072298,0,072298,72298,14696,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+072481,0,072481,72481,14730,training,large,Attribution-NonCommercial 3.0 International
+100724,0,100724,100724,18143,training,large,Attribution-NonCommercial-ShareAlike
+132222,0,132222,132222,21656,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+055152,0,055152,55152,12089,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+084768,0,084768,84768,329,training,small,Attribution-Noncommercial-Share Alike 3.0 United States
+009181,0,009181,9181,2198,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+146266,0,146266,146266,6757,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+030290,0,030290,30290,7510,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+061371,0,061371,61371,13072,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+122001,0,122001,122001,20389,training,small,Attribution-NonCommercial-ShareAlike 3.0 International
+110164,0,110164,110164,19050,training,medium,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+083616,0,083616,83616,16187,training,large,CC0 1.0 Universal
+033236,0,033236,33236,8187,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+046084,0,046084,46084,10578,training,medium,Attribution-Noncommercial-NoDerivatives 2.0 France
+127707,0,127707,127707,21112,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+122873,0,122873,122873,20549,training,medium,Public Domain / Sound Recording Common Law Protection
+145997,0,145997,145997,23244,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+017630,0,017630,17630,4802,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+069048,0,069048,69048,14197,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+044135,0,044135,44135,10260,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+065885,0,065885,65885,13719,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+038774,0,038774,38774,9244,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+019725,0,019725,19725,5278,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+065516,0,065516,65516,7586,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+135388,0,135388,135388,21970,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+025143,0,025143,25143,5475,training,medium,Public Domain / Sound Recording Common Law Protection
+057092,0,057092,57092,12389,training,large,Creative Commons Attribution
+154362,0,154362,154362,24239,training,large,Attribution-NonCommercial 3.0 International
+070881,0,070881,70881,14499,training,large,Attribution
+152162,0,152162,152162,24020,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+012110,0,012110,12110,3187,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+040599,0,040599,40599,9560,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+014487,0,014487,14487,4025,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+130813,0,130813,130813,21530,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+147562,0,147562,147562,23426,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+033221,0,033221,33221,8154,training,small,Attribution-Noncommercial-Share Alike 3.0 Romania
+029363,0,029363,29363,7334,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+136597,0,136597,136597,16444,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+099536,0,099536,99536,14438,training,medium,Attribution-NonCommercial-ShareAlike 3.0 International
+145519,0,145519,145519,23192,training,large,Attribution
+019621,0,019621,19621,5249,training,medium,Public Domain / Sound Recording Common Law Protection
+027544,0,027544,27544,6955,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+114687,0,114687,114687,19533,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+068779,0,068779,68779,14163,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+095856,0,095856,95856,2249,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+152216,0,152216,152216,24052,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+143486,0,143486,143486,22840,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+122049,0,122049,122049,20401,training,medium,Attribution-Noncommercial-Share Alike 3.0 Netherlands
+140347,0,140347,140347,22463,training,medium,Attribution-Noncommercial-Share Alike 3.0 United States
+084591,0,084591,84591,16322,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+079936,0,079936,79936,15752,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+113457,0,113457,113457,19397,training,large,Attribution-NonCommercial-ShareAlike
+090124,0,090124,90124,16968,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+047185,0,047185,47185,10814,training,large,Attribution
+085758,0,085758,85758,11577,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+127308,0,127308,127308,18802,training,large,Attribution-NonCommercial
+089895,0,089895,89895,14843,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+010726,0,010726,10726,2658,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+119174,0,119174,119174,2064,training,large,Attribution-NonCommercial
+072030,0,072030,72030,11421,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+093398,0,093398,93398,17296,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+003588,0,003588,3588,639,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+057142,0,057142,57142,12399,training,large,Creative Commons Attribution
+120618,0,120618,120618,20235,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+031876,0,031876,31876,7870,training,large,Attribution-Noncommercial-Share Alike 3.0 Spain
+069192,0,069192,69192,14207,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+051662,0,051662,51662,11530,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+069908,0,069908,69908,14332,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+004513,0,004513,4513,1434,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+017671,0,017671,17671,4817,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+031875,0,031875,31875,7869,training,large,Attribution-Noncommercial-Share Alike 3.0 Spain
+092452,0,092452,92452,17203,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+000613,0,000613,613,125,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+000640,0,000640,640,1700,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+032071,0,032071,32071,7925,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+037093,0,037093,37093,8853,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+102214,0,102214,102214,17657,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+047089,0,047089,47089,10790,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+022511,0,022511,22511,5966,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+057368,0,057368,57368,12442,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+143842,0,143842,143842,22931,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+083388,0,083388,83388,16161,training,large,Public Domain Mark 1.0
+064538,0,064538,64538,13477,training,small,Attribution-NonCommercial-ShareAlike 3.0 International
+011375,0,011375,11375,2949,training,medium,Public Domain
+135317,0,135317,135317,21954,training,large,Attribution-NonCommercial-ShareAlike
+100407,0,100407,100407,1088,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+148591,0,148591,148591,23602,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+057999,0,057999,57999,7464,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+089489,0,089489,89489,16877,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+032703,0,032703,32703,4097,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+062190,0,062190,62190,13221,training,small,Attribution-Noncommercial-Share Alike 3.0 United States
+083506,0,083506,83506,12759,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+010109,0,010109,10109,2391,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+013595,0,013595,13595,3720,training,medium,Attribution-NonCommercial-ShareAlike 3.0 International
+144827,0,144827,144827,23067,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+154898,0,154898,154898,21032,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+009130,0,009130,9130,1146,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+086006,0,086006,86006,16239,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+040313,0,040313,40313,9485,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+141891,0,141891,141891,22479,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+102354,0,102354,102354,18258,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+110196,0,110196,110196,19052,training,large,Attribution-NonCommercial-ShareAlike
+096829,0,096829,96829,17711,training,large,Attribution-NonCommercial-ShareAlike
+116104,0,116104,116104,19756,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+084622,0,084622,84622,16325,training,medium,Attribution-NonCommercial-ShareAlike 3.0 International
+031403,0,031403,31403,7755,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+014169,0,014169,14169,3908,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+025829,0,025829,25829,6600,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+152593,0,152593,152593,24089,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+136646,0,136646,136646,19429,training,large,Attribution
+150880,0,150880,150880,23827,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+026615,0,026615,26615,6733,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+031469,0,031469,31469,7784,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+011739,0,011739,11739,2424,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+065864,0,065864,65864,7802,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+115451,0,115451,115451,19645,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+016518,0,016518,16518,3764,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+052368,0,052368,52368,11647,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+107984,0,107984,107984,10458,training,large,Attribution-NonCommercial-ShareAlike
+060470,0,060470,60470,12962,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+039710,0,039710,39710,9411,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+079514,0,079514,79514,15688,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+033470,0,033470,33470,8267,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+043465,0,043465,43465,10152,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+036108,0,036108,36108,8661,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+016459,0,016459,16459,4566,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+015439,0,015439,15439,4258,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+076494,0,076494,76494,15439,training,medium,Attribution-NonCommercial-ShareAlike 3.0 International
+044217,0,044217,44217,10198,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+067120,0,067120,67120,13933,training,large,Music Sharing
+075649,0,075649,75649,15294,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+119015,0,119015,119015,2004,training,large,Attribution-NonCommercial
+094413,0,094413,94413,16743,training,medium,Attribution-NonCommercial 3.0 International
+001099,0,001099,1099,202,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+018102,0,018102,18102,4975,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+149703,0,149703,149703,23708,training,medium,Attribution-ShareAlike
+019585,0,019585,19585,5233,training,medium,Public Domain / Sound Recording Common Law Protection
+017356,0,017356,17356,2423,training,large,Attribution-Noncommercial 3.0 United States
+131817,0,131817,131817,21608,training,medium,Attribution-Noncommercial-Share Alike 3.0 United States
+154674,0,154674,154674,16305,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+105522,0,105522,105522,18539,training,large,Attribution-Noncommercial 3.0 United States
+067132,0,067132,67132,14084,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+138967,0,138967,138967,22288,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+120155,0,120155,120155,20191,training,large,Attribution-NonCommercial
+005274,0,005274,5274,662,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+076331,0,076331,76331,15425,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+051608,0,051608,51608,129,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+047091,0,047091,47091,10792,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+040277,0,040277,40277,919,training,medium,Attribution-Noncommercial-Share Alike 3.0 United States
+038805,0,038805,38805,9262,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+022496,0,022496,22496,5931,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+118120,0,118120,118120,18336,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+031799,0,031799,31799,5120,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+014092,0,014092,14092,3899,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+120111,0,120111,120111,20182,training,small,Attribution-NonCommercial
+017131,0,017131,17131,4683,training,medium,Attribution-Noncommercial-Share Alike 3.0 Netherlands
+013195,0,013195,13195,3589,training,large,Attribution-Noncommercial-NoDerivatives 2.0 France
+075814,0,075814,75814,15318,training,large,Creative Commons Attribution
+120661,0,120661,120661,20255,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+032926,0,032926,32926,8073,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+087372,0,087372,87372,16744,training,medium,Attribution-NonCommercial-ShareAlike 3.0 International
+145521,0,145521,145521,23193,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+012293,0,012293,12293,3250,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+075362,0,075362,75362,2030,training,large,Attribution-NonCommercial 3.0 International
+036626,0,036626,36626,8742,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+018817,0,018817,18817,3156,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+143120,0,143120,143120,22764,training,medium,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+062159,0,062159,62159,13210,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+128951,0,128951,128951,21250,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+123382,0,123382,123382,20645,training,medium,Public Domain / Sound Recording Common Law Protection
+086257,0,086257,86257,16584,training,medium,Attribution-NonCommercial-ShareAlike 3.0 International
+010812,0,010812,10812,657,training,large,Attribution
+038163,0,038163,38163,9070,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+046735,0,046735,46735,10702,training,medium,Attribution-NonCommercial-ShareAlike 3.0 International
+063142,0,063142,63142,13337,training,large,Attribution-NonCommercial 3.0 International
+013324,0,013324,13324,3632,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+035753,0,035753,35753,8618,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+072704,0,072704,72704,14758,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+080671,0,080671,80671,1837,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+069892,0,069892,69892,14324,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+028535,0,028535,28535,7161,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+071732,0,071732,71732,14606,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+032355,0,032355,32355,7952,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+082030,0,082030,82030,15954,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+030821,0,030821,30821,7633,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+013976,0,013976,13976,2832,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+021475,0,021475,21475,5678,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+040345,0,040345,40345,9514,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+139491,0,139491,139491,15220,training,small,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+016949,0,016949,16949,4657,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+022594,0,022594,22594,3629,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+147617,0,147617,147617,23451,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+064394,0,064394,64394,13453,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+088482,0,088482,88482,16835,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+041804,0,041804,41804,9836,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+115198,0,115198,115198,19596,training,large,CC0 1.0 Universal
+042790,0,042790,42790,10022,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+150978,0,150978,150978,23853,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+058456,0,058456,58456,12698,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+118678,0,118678,118678,20065,training,large,Attribution-Noncommercial 3.0 United States
+123863,0,123863,123863,20697,training,medium,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+013693,0,013693,13693,3757,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+014486,0,014486,14486,4024,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+104067,0,104067,104067,18248,training,small,Attribution-Noncommercial-No Derivative Works 3.0 United States
+034125,0,034125,34125,3275,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+142746,0,142746,142746,22736,training,large,Attribution-NonCommercial-ShareAlike
+075930,0,075930,75930,15323,training,small,Creative Commons Attribution
+027864,0,027864,27864,7038,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+054787,0,054787,54787,11895,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+025121,0,025121,25121,2313,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+124111,0,124111,124111,20715,training,medium,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+010123,0,010123,10123,2405,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+095086,0,095086,95086,17466,training,large,Attribution-NonCommercial-ShareAlike
+068664,0,068664,68664,14146,training,large,Attribution-NonCommercial 3.0 International
+027804,0,027804,27804,7016,training,small,Attribution-NonCommercial 3.0 International
+054572,0,054572,54572,12008,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+122284,0,122284,122284,20470,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+017593,0,017593,17593,4792,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+033066,0,033066,33066,8099,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+010728,0,010728,10728,2398,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+019657,0,019657,19657,5265,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+085167,0,085167,85167,15689,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+069017,0,069017,69017,14191,training,large,Attribution-NonCommercial
+085869,0,085869,85869,16515,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+117182,0,117182,117182,19860,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+061896,0,061896,61896,13178,training,medium,Public Domain / Sound Recording Common Law Protection
+033408,0,033408,33408,8242,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+107954,0,107954,107954,18810,training,small,Attribution-Noncommercial-Share Alike 3.0 United States
+016527,0,016527,16527,4588,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+060632,0,060632,60632,12984,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+052856,0,052856,52856,7017,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+112161,0,112161,112161,19241,training,large,Attribution-NonCommercial-ShareAlike
+018779,0,018779,18779,5084,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+010499,0,010499,10499,2547,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+041152,0,041152,41152,9697,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+043794,0,043794,43794,646,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+146298,0,146298,146298,23285,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+143290,0,143290,143290,22552,training,small,Attribution-ShareAlike
+005873,0,005873,5873,308,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+013050,0,013050,13050,3520,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+110640,0,110640,110640,19094,training,large,Attribution-NonCommercial-ShareAlike
+028523,0,028523,28523,7148,training,large,Attribution-Noncommercial-NoDerivatives 2.0 France
+118489,0,118489,118489,20040,training,small,Attribution
+030772,0,030772,30772,7643,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+038551,0,038551,38551,9200,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+143769,0,143769,143769,22906,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+073404,0,073404,73404,14930,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+088486,0,088486,88486,16843,training,small,Attribution-NonCommercial-ShareAlike 3.0 International
+040088,0,040088,40088,9451,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+151256,0,151256,151256,23867,training,medium,Attribution-Noncommercial-Share Alike 3.0 United States
+150605,0,150605,150605,23815,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+011108,0,011108,11108,2866,training,large,Attribution
+038797,0,038797,38797,9255,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+122162,0,122162,122162,15944,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+073835,0,073835,73835,15004,training,large,Creative Commons Attribution
+020010,0,020010,20010,5323,training,medium,Attribution-Noncommercial-Share Alike 3.0 United States
+063498,0,063498,63498,13390,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+030075,0,030075,30075,7492,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+077491,0,077491,77491,8695,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+038796,0,038796,38796,9254,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+118499,0,118499,118499,20041,training,small,Attribution
+039295,0,039295,39295,9341,training,large,Attribution
+120122,0,120122,120122,2040,training,large,Attribution-NonCommercial
+145951,0,145951,145951,23225,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+013667,0,013667,13667,3737,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+098710,0,098710,98710,17985,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+138490,0,138490,138490,22259,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+010247,0,010247,10247,43,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+151766,0,151766,151766,23904,training,medium,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+082858,0,082858,82858,13844,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+038788,0,038788,38788,9246,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+144867,0,144867,144867,23082,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+095042,0,095042,95042,17469,training,large,Attribution-NonCommercial-ShareAlike
+104609,0,104609,104609,16483,training,large,Attribution-NonCommercial-ShareAlike
+039065,0,039065,39065,9306,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+143652,0,143652,143652,22875,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+022385,0,022385,22385,5913,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+026328,0,026328,26328,6691,training,large,Attribution-NonCommercial-NoDerivatives 2.0 Germany
+052864,0,052864,52864,9621,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+084713,0,084713,84713,16351,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+053043,0,053043,53043,11782,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+036379,0,036379,36379,8716,training,large,Attribution-ShareAlike 3.0 International
+026189,0,026189,26189,6669,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+123184,0,123184,123184,20600,training,large,Attribution-NonCommercial-ShareAlike
+035071,0,035071,35071,8526,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+022332,0,022332,22332,5885,training,medium,Attribution-NoDerivatives 3.0 International
+114768,0,114768,114768,19540,training,large,CC0 1.0 Universal
+106570,0,106570,106570,18269,training,small,Attribution-ShareAlike
+085915,0,085915,85915,12408,training,large,Attribution-NonCommercial-ShareAlike 3.0 (Will Not Appear in Vimeo Music Store)
+120655,0,120655,120655,20252,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+112504,0,112504,112504,19277,training,medium,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+108009,0,108009,108009,18815,training,large,Attribution-ShareAlike
+151971,0,151971,151971,23919,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+153770,0,153770,153770,24213,training,large,Attribution-NonCommercial
+059165,0,059165,59165,12767,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+057372,0,057372,57372,12445,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+010707,0,010707,10707,2640,training,large,Attribution
+094140,0,094140,94140,13829,training,large,Attribution-Noncommercial 3.0 United States
+028321,0,028321,28321,7127,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+106960,0,106960,106960,18710,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+061399,0,061399,61399,13084,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+041577,0,041577,41577,9791,training,large,Attribution-Noncommercial-No Derivative Works 2.5 Italy
+151770,0,151770,151770,23905,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+095339,0,095339,95339,17542,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+069776,0,069776,69776,14301,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+038142,0,038142,38142,9057,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+010572,0,010572,10572,2599,training,large,Attribution
+095916,0,095916,95916,14446,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+019627,0,019627,19627,5251,training,medium,Public Domain / Sound Recording Common Law Protection
+074823,0,074823,74823,15172,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+152018,0,152018,152018,23942,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+010192,0,010192,10192,2430,training,small,Attribution-Noncommercial-Share Alike 3.0 United States
+064354,0,064354,64354,13450,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+074200,0,074200,74200,15085,training,large,Creative Commons Attribution
+080218,0,080218,80218,15792,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+040179,0,040179,40179,9456,training,medium,Attribution-NonCommercial-ShareAlike 3.0 International
+042219,0,042219,42219,9962,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+112809,0,112809,112809,19294,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+046051,0,046051,46051,10558,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+000666,0,000666,666,135,training,small,Attribution-NonCommercial-ShareAlike 3.0 International
+043787,0,043787,43787,10201,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+062576,0,062576,62576,13269,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+096451,0,096451,96451,17644,training,large,Attribution-Noncommercial-Share Alike 3.0 Netherlands
+058442,0,058442,58442,12686,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+103887,0,103887,103887,8563,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+037284,0,037284,37284,8935,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+047042,0,047042,47042,10775,training,large,Attribution-Noncommercial-Share Alike 3.0 Spain
+105770,0,105770,105770,18578,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+098603,0,098603,98603,15195,training,large,Attribution-NonCommercial
+052220,0,052220,52220,11636,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+109532,0,109532,109532,19014,training,medium,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+104035,0,104035,104035,17983,training,large,Attribution-NonCommercial-ShareAlike
+124582,0,124582,124582,20792,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+124322,0,124322,124322,20759,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+022342,0,022342,22342,5896,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+042662,0,042662,42662,10010,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+032446,0,032446,32446,7980,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+057070,0,057070,57070,12385,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+139341,0,139341,139341,22341,training,large,Attribution-NonCommercial-ShareAlike
+029593,0,029593,29593,7370,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+105153,0,105153,105153,18495,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+136273,0,136273,136273,4368,training,medium,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+020434,0,020434,20434,5439,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+092519,0,092519,92519,17229,training,medium,Attribution-Noncommercial-No Derivative Works 3.0 United States
+040268,0,040268,40268,9475,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+034502,0,034502,34502,8470,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+051920,0,051920,51920,11596,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+129711,0,129711,129711,21382,training,large,Attribution-NonCommercial-ShareAlike
+136816,0,136816,136816,21031,training,large,Attribution
+011335,0,011335,11335,2929,training,large,Attribution
+111533,0,111533,111533,19160,training,large,Attribution-NonCommercial-ShareAlike
+120504,0,120504,120504,20208,training,small,Attribution-Noncommercial-Share Alike 3.0 United States
+146415,0,146415,146415,23299,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+069511,0,069511,69511,14254,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+127615,0,127615,127615,20521,training,large,Attribution-NonCommercial
+018105,0,018105,18105,4985,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+085249,0,085249,85249,16461,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+024929,0,024929,24929,6403,training,medium,Attribution 3.0 United States
+068169,0,068169,68169,13925,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+137955,0,137955,137955,22197,training,large,Attribution
+017506,0,017506,17506,4751,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+029658,0,029658,29658,7388,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+016712,0,016712,16712,4616,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+083063,0,083063,83063,16086,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+017941,0,017941,17941,4926,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+014709,0,014709,14709,4112,training,large,Attribution-Noncommercial-NoDerivatives 2.0 France
+047256,0,047256,47256,10830,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+154082,0,154082,154082,24155,training,large,Attribution-NonCommercial-ShareAlike
+020619,0,020619,20619,5452,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+113015,0,113015,113015,19301,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+068359,0,068359,68359,14094,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+102231,0,102231,102231,18187,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+152024,0,152024,152024,23944,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+066454,0,066454,66454,13841,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+062195,0,062195,62195,13226,training,small,Attribution-Noncommercial-Share Alike 3.0 United States
+152276,0,152276,152276,24067,training,large,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+038206,0,038206,38206,9136,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+110123,0,110123,110123,19046,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+019631,0,019631,19631,5254,training,medium,Public Domain / Sound Recording Common Law Protection
+021700,0,021700,21700,5752,training,large,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International
+104734,0,104734,104734,18441,training,large,Attribution-Noncommercial 3.0 United States
+074398,0,074398,74398,15130,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+123821,0,123821,123821,20693,training,small,Attribution-NonCommercial
+121392,0,121392,121392,20309,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+120086,0,120086,120086,1872,training,large,Attribution-NonCommercial
+057231,0,057231,57231,12414,training,large,Attribution-Noncommercial-Share Alike 3.0 United States
+038156,0,038156,38156,9048,training,large,Attribution-NonCommercial-ShareAlike 3.0 International
+108324,0,108324,108324,4223,training,large,Attribution-Noncommercial-No Derivative Works 3.0 United States
+006327,0,006327,6327,1830,training,large,Attribution-NonCommercial 3.0 International
+131402,0,131402,131402,21560,training,large,Attribution-NonCommercial-ShareAlike
+047834,0,047834,47834,10963,training,medium,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International

@@ -1,0 +1,100 @@
+section,quantity,detector,value,ci_lo,ci_hi,text,verdict,note
+compact,"Jamendo-B FPR, τ_JamA window (matched unit, k=1)",SpecTTTra,2.416191194926819,1.449871379142868,3.8475750223264686,2.4 [1.4–3.8],,public_window_rates.csv
+compact,"Jamendo-B FPR, τ_JamA window (matched unit, k=1)",SpecTTTra-alpha,2.6188230139379467,1.6753577645668996,3.98123548575752,2.6 [1.7–4.0],,public_window_rates.csv
+compact,"Jamendo-B FPR, τ_JamA window (matched unit, k=1)",SpecTTTra-beta,2.389812188662756,1.5090224436674986,3.684089745070019,2.4 [1.5–3.7],,public_window_rates.csv
+compact,"Jamendo-B FPR, FMA-dev window τ",SpecTTTra,4.431299862334367,2.65347248103834,7.011190979667472,4.4 [2.7–7.0],,"unit_prov.csv (source fma_dev800, unit win)"
+compact,"Jamendo-B FPR, FMA-dev window τ",SpecTTTra-alpha,1.6500182448458331,0.9764441745704628,2.649808623228181,1.7 [1.0–2.6],,"unit_prov.csv (source fma_dev800, unit win)"
+compact,"Jamendo-B FPR, FMA-dev window τ",SpecTTTra-beta,3.386626942661417,1.82467718515193,5.383604091421571,3.4 [1.8–5.4],,"unit_prov.csv (source fma_dev800, unit win)"
+compact,E2 ratio: FMA-dev-window / Jamendo-A-window FPR on Jamendo-B,SpecTTTra,1.8340021566333788,0.9573018626205096,3.514286779604918,1.83 [0.96–3.51],,joint_ratio_boot.csv
+compact,E2 ratio: FMA-dev-window / Jamendo-A-window FPR on Jamendo-B,SpecTTTra-alpha,0.6300609991832501,0.3539378202426633,1.1045590786127417,0.63 [0.35–1.10],,joint_ratio_boot.csv
+compact,E2 ratio: FMA-dev-window / Jamendo-A-window FPR on Jamendo-B,SpecTTTra-beta,1.4171100803349905,0.7323653244104186,2.533992858260712,1.42 [0.73–2.53],,joint_ratio_boot.csv
+compact,"Jamendo-B FPR, track-level τ on single windows (k_cal=12 → k_dep=1)",SpecTTTra,10.647512342914473,6.652004081170886,18.060769246527816,10.6 [6.7–18.1],,unit_matrix.csv
+compact,"Jamendo-B FPR, track-level τ on single windows (k_cal=12 → k_dep=1)",SpecTTTra-alpha,13.757049144980073,8.769478286556422,22.026419250760128,13.8 [8.8–22.0],,unit_matrix.csv
+compact,"Jamendo-B FPR, track-level τ on single windows (k_cal=12 → k_dep=1)",SpecTTTra-beta,13.61884443780986,10.14499020591098,18.80436147423033,13.6 [10.1–18.8],,unit_matrix.csv
+compact,E1 ratio: (k_cal=12 → k_dep=1) / matched (1 → 1),SpecTTTra,4.4067341877872215,3.26832969879685,6.641261187354339,4.41 [3.27–6.64],,joint_ratio_boot.csv
+compact,E1 ratio: (k_cal=12 → k_dep=1) / matched (1 → 1),SpecTTTra-alpha,5.253141992323291,3.6425858349982008,8.410437760980269,5.25 [3.64–8.41],,joint_ratio_boot.csv
+compact,E1 ratio: (k_cal=12 → k_dep=1) / matched (1 → 1),SpecTTTra-beta,5.698709087859505,4.264408684454771,7.986700768516994,5.70 [4.26–7.99],,joint_ratio_boot.csv
+compact,"New-family mean TPR @τ_JamA (4 generators equal, songs 1/n_f)",SpecTTTra,4.38680879252192,3.271159267732352,5.445854844875233,4.4 [3.3–5.4],,unit_rank_unseen.csv (ref unseen4; CI from the jamendo_B row)
+compact,"New-family mean TPR @τ_JamA (4 generators equal, songs 1/n_f)",SpecTTTra-alpha,14.264966513721689,11.920815394316154,17.46048606692436,14.3 [11.9–17.5],,unit_rank_unseen.csv (ref unseen4; CI from the jamendo_B row)
+compact,"New-family mean TPR @τ_JamA (4 generators equal, songs 1/n_f)",SpecTTTra-beta,5.726256106548441,4.217258301419234,7.580396075335506,5.7 [4.2–7.6],,unit_rank_unseen.csv (ref unseen4; CI from the jamendo_B row)
+compact,  per generator: Lyria 3 / HeartMuLa / MiniMax 2.6 / Mureka v9,SpecTTTra,,,,2.8 / 11.1 / 1.6 / 2.0,,unit_gen.csv
+compact,  per generator: Lyria 3 / HeartMuLa / MiniMax 2.6 / Mureka v9,SpecTTTra-alpha,,,,7.8 / 31.6 / 10.8 / 6.8,,unit_gen.csv
+compact,  per generator: Lyria 3 / HeartMuLa / MiniMax 2.6 / Mureka v9,SpecTTTra-beta,,,,1.6 / 15.5 / 3.5 / 2.2,,unit_gen.csv
+compact,"Unseen-family AUROC, range over 7 human cohorts",SpecTTTra,,0.4312153422839981,0.674978943966937,0.431–0.675,,"unit_rank_unseen.csv; cohorts fma_dev800, jamendo_B, ava_sm5, audioset_sm, openbmat_human_musicbearing, musdb18, gtzan; ci_lo/ci_hi hold the range"
+compact,"Unseen-family AUROC, range over 7 human cohorts",SpecTTTra-alpha,,0.5047615491606494,0.6952406029006325,0.505–0.695,,"unit_rank_unseen.csv; cohorts fma_dev800, jamendo_B, ava_sm5, audioset_sm, openbmat_human_musicbearing, musdb18, gtzan; ci_lo/ci_hi hold the range"
+compact,"Unseen-family AUROC, range over 7 human cohorts",SpecTTTra-beta,,0.4341253245832348,0.6748678449579718,0.434–0.675,,"unit_rank_unseen.csv; cohorts fma_dev800, jamendo_B, ava_sm5, audioset_sm, openbmat_human_musicbearing, musdb18, gtzan; ci_lo/ci_hi hold the range"
+compact,  (lowest / highest cohort),SpecTTTra,,,,jamendo_B / gtzan,,
+compact,  (lowest / highest cohort),SpecTTTra-alpha,,,,audioset_sm / gtzan,,
+compact,  (lowest / highest cohort),SpecTTTra-beta,,,,audioset_sm / gtzan,,
+compact,"  unseen-family TPR at each cohort's own 2% threshold (oracle), range",SpecTTTra,,2.798275544329498,6.156299912260993,2.8–6.2,,ci_lo/ci_hi hold the range
+compact,"  unseen-family TPR at each cohort's own 2% threshold (oracle), range",SpecTTTra-alpha,,3.175027280438648,12.533003408014196,3.2–12.5,,ci_lo/ci_hi hold the range
+compact,"  unseen-family TPR at each cohort's own 2% threshold (oracle), range",SpecTTTra-beta,,1.9994509660850188,7.351473966149413,2.0–7.4,,ci_lo/ci_hi hold the range
+compact,AVA-SM: window FPR @τ_JamA 2% (ratio to Jamendo-B [95% CI]),SpecTTTra,0.6573919707002653,0.3155935330765338,1.2488989389026353,1.6 (×0.66 [0.32–1.25]),,public_window_g0.csv (value = ratio)
+compact,AVA-SM: window FPR @τ_JamA 2% (ratio to Jamendo-B [95% CI]),SpecTTTra-alpha,2.879415798508016,1.93537439330084,4.489942450214133,7.5 (×2.88 [1.94–4.49]),,public_window_g0.csv (value = ratio)
+compact,AVA-SM: window FPR @τ_JamA 2% (ratio to Jamendo-B [95% CI]),SpecTTTra-beta,1.7252800058870292,0.9696591414327068,2.7179239124213144,4.1 (×1.73 [0.97–2.72]),,public_window_g0.csv (value = ratio)
+compact,AudioSet-SM: window FPR @τ_JamA 2% (ratio to Jamendo-B [95% CI]),SpecTTTra,1.2706674227779726,0.6633460943429088,2.1537545883227907,3.1 (×1.27 [0.66–2.15]),,public_window_g0.csv (value = ratio)
+compact,AudioSet-SM: window FPR @τ_JamA 2% (ratio to Jamendo-B [95% CI]),SpecTTTra-alpha,3.852004982603472,2.6523213749667987,5.787554495604792,10.1 (×3.85 [2.65–5.79]),,public_window_g0.csv (value = ratio)
+compact,AudioSet-SM: window FPR @τ_JamA 2% (ratio to Jamendo-B [95% CI]),SpecTTTra-beta,2.447034643189493,1.455032053677929,3.650149966014868,5.8 (×2.45 [1.46–3.65]),,public_window_g0.csv (value = ratio)
+compact,AI-OpenBMAT-H: window FPR @τ_JamA 2% (ratio to Jamendo-B [95% CI]),SpecTTTra,0.6640147852813285,0.5055025980243623,0.908245321248492,1.6 (×0.66 [0.51–0.91]),,public_window_g0.csv (value = ratio)
+compact,AI-OpenBMAT-H: window FPR @τ_JamA 2% (ratio to Jamendo-B [95% CI]),SpecTTTra-alpha,2.6521733878738267,2.062539994165825,3.521092165000756,6.9 (×2.65 [2.06–3.52]),,public_window_g0.csv (value = ratio)
+compact,AI-OpenBMAT-H: window FPR @τ_JamA 2% (ratio to Jamendo-B [95% CI]),SpecTTTra-beta,1.305863714847488,1.0030936047416104,1.6770307346445197,3.1 (×1.31 [1.00–1.68]),,public_window_g0.csv (value = ratio)
+compact,"Largest ratio over all human cohorts (n ≥ 30, ≥ 10 clusters), α=2%",SpecTTTra,1.2706674227779726,0.6633460943429088,2.1537545883227907,audioset_sm 3.1% (×1.27 [0.66–2.15]),,public_window_g0.csv
+compact,"Largest ratio over all human cohorts (n ≥ 30, ≥ 10 clusters), α=2%",SpecTTTra-alpha,3.852004982603472,2.6523213749667987,5.787554495604792,audioset_sm 10.1% (×3.85 [2.65–5.79]),,public_window_g0.csv
+compact,"Largest ratio over all human cohorts (n ≥ 30, ≥ 10 clusters), α=2%",SpecTTTra-beta,2.447034643189493,1.455032053677929,3.650149966014868,audioset_sm 5.8% (×2.45 [1.46–3.65]),,public_window_g0.csv
+compact,"Context, speech without music (null): AVA-S / LibriSpeech / AI-OpenBMAT speech only, window FPR @τ_JamA 2%",SpecTTTra,,,,2.7 / 2.9 / 1.2,,public_window_rates.csv (CIs in the context rows)
+compact,"Context, speech without music (null): AVA-S / LibriSpeech / AI-OpenBMAT speech only, window FPR @τ_JamA 2%",SpecTTTra-alpha,,,,12.6 / 9.9 / 9.9,,public_window_rates.csv (CIs in the context rows)
+compact,"Context, speech without music (null): AVA-S / LibriSpeech / AI-OpenBMAT speech only, window FPR @τ_JamA 2%",SpecTTTra-beta,,,,8.5 / 4.0 / 2.8,,public_window_rates.csv (CIs in the context rows)
+compact,"Context, music without speech: AVA-MO / AudioSet-MO / MUSDB18 / GTZAN, window FPR @τ_JamA 2%",SpecTTTra,,,,1.5 / 1.2 / 2.8 / 1.1,,public_window_rates.csv (CIs in the context rows)
+compact,"Context, music without speech: AVA-MO / AudioSet-MO / MUSDB18 / GTZAN, window FPR @τ_JamA 2%",SpecTTTra-alpha,,,,1.7 / 2.3 / 4.0 / 3.2,,public_window_rates.csv (CIs in the context rows)
+compact,"Context, music without speech: AVA-MO / AudioSet-MO / MUSDB18 / GTZAN, window FPR @τ_JamA 2%",SpecTTTra-beta,,,,1.3 / 1.2 / 3.4 / 1.9,,public_window_rates.csv (CIs in the context rows)
+context,window FPR @tau_JamA 2%: ava_cs (AVA-S),SpecTTTra,2.742574257425743,0.9271940556124578,5.0074421519734,2.7 [0.9–5.0],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: librispeech_tc (LibriSpeech),SpecTTTra,2.926208651399491,1.1086204692762005,5.55678668122419,2.9 [1.1–5.6],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: openbmat_nomusic (AI-OpenBMAT speech only),SpecTTTra,1.1618589743589742,0.6729850629250417,1.9831969246031744,1.2 [0.7–2.0],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: ava_mo (AVA-MO),SpecTTTra,1.4826839826839828,0.7947099039919769,2.61507715799508,1.5 [0.8–2.6],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: audioset_mo (AudioSet-MO),SpecTTTra,1.2422360248447204,0.3105590062111801,2.1739130434782608,1.2 [0.3–2.2],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: musdb18 (MUSDB18),SpecTTTra,2.8333333333333344,1.738188053851398,4.518779342723004,2.8 [1.7–4.5],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: gtzan (GTZAN),SpecTTTra,1.0543877210543875,0.6172839506172841,1.671671671671671,1.1 [0.6–1.7],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: ava_cs (AVA-S),SpecTTTra-alpha,12.643564356435649,7.542793563290296,18.065287488361072,12.6 [7.5–18.1],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: librispeech_tc (LibriSpeech),SpecTTTra-alpha,9.86704834605598,5.2870578266256105,15.559463825540204,9.9 [5.3–15.6],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: openbmat_nomusic (AI-OpenBMAT speech only),SpecTTTra-alpha,9.935897435897454,7.517810580161403,13.07848770314974,9.9 [7.5–13.1],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: ava_mo (AVA-MO),SpecTTTra-alpha,1.7225093500603703,0.8717274489076814,3.016180222905911,1.7 [0.9–3.0],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: audioset_mo (AudioSet-MO),SpecTTTra-alpha,2.329192546583851,1.2422360248447204,4.037267080745342,2.3 [1.2–4.0],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: musdb18 (MUSDB18),SpecTTTra-alpha,3.999999999999997,2.533291139240507,5.930476987225454,4.0 [2.5–5.9],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: gtzan (GTZAN),SpecTTTra-alpha,3.163163163163172,2.2221388054721403,4.250917584250917,3.2 [2.2–4.3],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: ava_cs (AVA-S),SpecTTTra-beta,8.465346534653467,4.573562545596444,14.172654132139527,8.5 [4.6–14.2],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: librispeech_tc (LibriSpeech),SpecTTTra-beta,4.001272264631043,1.94909991359728,7.166693703436673,4.0 [1.9–7.2],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: openbmat_nomusic (AI-OpenBMAT speech only),SpecTTTra-beta,2.8245192307692344,1.885644768856447,4.309115295806894,2.8 [1.9–4.3],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: ava_mo (AVA-MO),SpecTTTra-beta,1.33912006360986,0.582595311504141,2.422736498880921,1.3 [0.6–2.4],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: audioset_mo (AudioSet-MO),SpecTTTra-beta,1.2422360248447204,0.3105590062111801,2.639751552795031,1.2 [0.3–2.6],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: musdb18 (MUSDB18),SpecTTTra-beta,3.36111111111111,1.8666417910447763,4.703584375746953,3.4 [1.9–4.7],,public_window_rates.csv
+context,window FPR @tau_JamA 2%: gtzan (GTZAN),SpecTTTra-beta,1.8585251918585248,1.1211211211211207,2.669336002669337,1.9 [1.1–2.7],,public_window_rates.csv
+compact,"G0 (orig) passes on any human cohort, α = 1 / 2 / 5%",SpecTTTra,,,,none / none / none,,public_window_g0.csv
+compact,"G0 (orig) passes on any human cohort, α = 1 / 2 / 5%",SpecTTTra-alpha,,,,"openbmat_human, openbmat_human_musicbearing, ava_sm5, ava_sm5[short], audioset_sm / ava_sm5[short], audioset_sm / none",,public_window_g0.csv
+compact,"G0 (orig) passes on any human cohort, α = 1 / 2 / 5%",SpecTTTra-beta,,,,none / none / none,,public_window_g0.csv
+compact,"Ref swap, single Jamendo-A τ: worst of 8 cohorts; all < 3α? (cohorts ≥ 6%, of which CI lower bound > 6%)",SpecTTTra,3.070175438596491,1.461988304093567,5.263157894736842,"3.1 [1.5–5.3] AudioSet-SM; yes (0, 0)",,unit_refswap_summary.csv (ref jamendo_A)
+compact,"Ref swap, single Jamendo-A τ: worst of 8 cohorts; all < 3α? (cohorts ≥ 6%, of which CI lower bound > 6%)",SpecTTTra-alpha,10.087719298245611,7.163742690058479,13.596491228070176,"10.1 [7.2–13.6] AudioSet-SM; NO (3, 1)",,unit_refswap_summary.csv (ref jamendo_A)
+compact,"Ref swap, single Jamendo-A τ: worst of 8 cohorts; all < 3α? (cohorts ≥ 6%, of which CI lower bound > 6%)",SpecTTTra-beta,5.847953216374268,3.508771929824561,7.898391812865476,"5.8 [3.5–7.9] AudioSet-SM; yes (0, 0)",,unit_refswap_summary.csv (ref jamendo_A)
+compact,  ref swap: references with all cohorts < 3α (of 6) — worst FPR per reference,SpecTTTra,,,,"6/6: Jamendo-A 3.1, MUSDB18 1.6, GTZAN 4.9, AVA-MO 4.1, AudioSet-MO 4.4, FMA-dev 4.7",,unit_refswap_summary.csv
+compact,  ref swap: references with all cohorts < 3α (of 6) — worst FPR per reference,SpecTTTra-alpha,,,,"2/6: Jamendo-A 10.1✗, MUSDB18 5.0, GTZAN 6.3✗, AVA-MO 10.5✗, AudioSet-MO 5.6, FMA-dev 8.2✗",,unit_refswap_summary.csv
+compact,  ref swap: references with all cohorts < 3α (of 6) — worst FPR per reference,SpecTTTra-beta,,,,"3/6: Jamendo-A 5.8, MUSDB18 3.8, GTZAN 6.1✗, AVA-MO 6.7✗, AudioSet-MO 4.7, FMA-dev 6.4✗",,unit_refswap_summary.csv
+compact,"Multi-ref MAX (leave-one-cohort-out): worst of 8 cohorts; all < 3α? (cohorts ≥ 6%, of which CI lower bound > 6%)",SpecTTTra,2.8333333333333344,1.459779575655488,4.372558212220659,"2.8 [1.5–4.4] MUSDB18; yes (0, 0)",,unit_multiref_summary.csv (kind MAX)
+compact,"Multi-ref MAX (leave-one-cohort-out): worst of 8 cohorts; all < 3α? (cohorts ≥ 6%, of which CI lower bound > 6%)",SpecTTTra-alpha,4.970760233918129,3.070175438596491,7.894736842105263,"5.0 [3.1–7.9] AudioSet-SM; yes (0, 0)",,unit_multiref_summary.csv (kind MAX)
+compact,"Multi-ref MAX (leave-one-cohort-out): worst of 8 cohorts; all < 3α? (cohorts ≥ 6%, of which CI lower bound > 6%)",SpecTTTra-beta,3.8011695906432745,2.046783625730994,6.140350877192982,"3.8 [2.0–6.1] AudioSet-SM; yes (0, 0)",,unit_multiref_summary.csv (kind MAX)
+compact,"  new-family TPR @MAX(5) (change vs τ_JamA, points)",SpecTTTra,2.798275544329498,1.809360013980626,4.201651532515243,2.8 [1.8–4.2] (-1.6),,unit_multiref_tpr.csv
+compact,"  new-family TPR @MAX(5) (change vs τ_JamA, points)",SpecTTTra-alpha,9.548081262166011,6.657050304766816,10.867216268119378,9.5 [6.7–10.9] (-4.7),,unit_multiref_tpr.csv
+compact,"  new-family TPR @MAX(5) (change vs τ_JamA, points)",SpecTTTra-beta,3.690259431428765,2.7578040654730227,5.136849148269264,3.7 [2.8–5.1] (-2.0),,unit_multiref_tpr.csv
+compact,Sanity: SONICS-fake window TPR @τ_JamA (training distribution),SpecTTTra,62.783712121212176,60.80658333333363,64.8166761363635,62.8 [60.8–64.8],,"unit_gen.csv (sonics_fake, all)"
+compact,Sanity: SONICS-fake window TPR @τ_JamA (training distribution),SpecTTTra-alpha,62.32333333333337,56.86553030303136,67.21283712121131,62.3 [56.9–67.2],,"unit_gen.csv (sonics_fake, all)"
+compact,Sanity: SONICS-fake window TPR @τ_JamA (training distribution),SpecTTTra-beta,61.47916666666791,58.658833333333824,63.97927083333359,61.5 [58.7–64.0],,"unit_gen.csv (sonics_fake, all)"
+verdict,E1,SpecTTTra,,,,4.41 [3.27–6.64],holds,Unit effect: Jamendo-B single-window FPR with a track-level τ (k_cal=12 → k_dep=1) ≥ 2× the matched-unit FPR (1 → 1) | CI lower bound ≥ 2
+verdict,E1,SpecTTTra-alpha,,,,5.25 [3.64–8.41],holds,Unit effect: Jamendo-B single-window FPR with a track-level τ (k_cal=12 → k_dep=1) ≥ 2× the matched-unit FPR (1 → 1) | CI lower bound ≥ 2
+verdict,E1,SpecTTTra-beta,,,,5.70 [4.26–7.99],holds,Unit effect: Jamendo-B single-window FPR with a track-level τ (k_cal=12 → k_dep=1) ≥ 2× the matched-unit FPR (1 → 1) | CI lower bound ≥ 2
+verdict,E2,SpecTTTra,,,,1.83 [0.96–3.51],holds,"Small calibration-source effect: FMA-dev-window τ gives ≤ about 2× the Jamendo-A-window τ FPR on Jamendo-B (SpecTTTra: 1.8×); rule: ≤ 2.0 holds, 2.0–2.5 borderline, ≥ 2.5 fails | CI reaches above 2"
+verdict,E2,SpecTTTra-alpha,,,,0.63 [0.35–1.10],holds,"Small calibration-source effect: FMA-dev-window τ gives ≤ about 2× the Jamendo-A-window τ FPR on Jamendo-B (SpecTTTra: 1.8×); rule: ≤ 2.0 holds, 2.0–2.5 borderline, ≥ 2.5 fails | CI upper bound ≤ 2"
+verdict,E2,SpecTTTra-beta,,,,1.42 [0.73–2.53],holds,"Small calibration-source effect: FMA-dev-window τ gives ≤ about 2× the Jamendo-A-window τ FPR on Jamendo-B (SpecTTTra: 1.8×); rule: ≤ 2.0 holds, 2.0–2.5 borderline, ≥ 2.5 fails | CI reaches above 2"
+verdict,E3,SpecTTTra,,,,4.4% [3.3–5.4],holds,Coverage failure: mean TPR over the 4 new families at τ_JamA ≤ 20% | CI upper bound ≤ 20%
+verdict,E3,SpecTTTra-alpha,,,,14.3% [11.9–17.5],holds,Coverage failure: mean TPR over the 4 new families at τ_JamA ≤ 20% | CI upper bound ≤ 20%
+verdict,E3,SpecTTTra-beta,,,,5.7% [4.2–7.6],holds,Coverage failure: mean TPR over the 4 new families at τ_JamA ≤ 20% | CI upper bound ≤ 20%
+verdict,E4,SpecTTTra,,,,max ratio 1.27 [0.66–2.15] (AudioSet-SM),holds,"No in-the-wild excess: AVA-SM, AudioSet-SM, AI-OpenBMAT-H do not pass G0 (point ratio ≥ 3 and 2.5th pct > 1) at α = 2% | G0 passes: none at α=2%; α=1%: none; α=5%: none"
+verdict,E4,SpecTTTra-alpha,,,,max ratio 3.85 [2.65–5.79] (AudioSet-SM),fails,"No in-the-wild excess: AVA-SM, AudioSet-SM, AI-OpenBMAT-H do not pass G0 (point ratio ≥ 3 and 2.5th pct > 1) at α = 2% | G0 passes: AudioSet-SM at α=2%; α=1%: AVA-SM, AudioSet-SM, AI-OpenBMAT-H; α=5%: none"
+verdict,E4,SpecTTTra-beta,,,,max ratio 2.45 [1.46–3.65] (AudioSet-SM),holds,"No in-the-wild excess: AVA-SM, AudioSet-SM, AI-OpenBMAT-H do not pass G0 (point ratio ≥ 3 and 2.5th pct > 1) at α = 2% | G0 passes: none at α=2%; α=1%: none; α=5%: none"
