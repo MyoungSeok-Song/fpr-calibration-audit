@@ -77,7 +77,7 @@ for ax, (coh, title, sub) in zip(axes, panels):
         line2 = f"EAT & C1: {f_lo:.1f}–{f_hi:.1f}% vs {j_lo:.1f}–{j_hi:.1f}%"
     else:
         b0f, b0w = val(coh, "jamendo_A", "file", "B0").rate, val(coh, "jamendo_A", "win", "B0").rate
-        line2 = f"track τ on windows: B0 {b0f:.1f}→{b0w:.1f}% ({b0f / b0w:.1f}×)"
+        line2 = f"B0: track τ {b0f:.1f}% → window τ {b0w:.1f}% ({b0f / b0w:.1f}×)"
     ax.text(0.0, 1.25, f"{title} · {sub}", transform=ax.transAxes, fontsize=7.5, fontweight="bold", color=INK, va="bottom")
     ax.text(0.0, 1.14, line1, transform=ax.transAxes, fontsize=7, color="#444444", va="bottom")
     ax.text(0.0, 1.03, line2, transform=ax.transAxes, fontsize=7, color="#444444", va="bottom")
